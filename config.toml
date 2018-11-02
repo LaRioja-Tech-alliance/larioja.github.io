@@ -1,13 +1,13 @@
-baseURL = "https://vigotech.org"
+baseURL = "https://lariojatech.org"
 languageCode = "gl-es"
-title = "Vigo Tech Alliance"
+title = "La Rioja Tech Alliance"
 publishDir = "docs"
 theme = "hugoscroll"
 
 [Params]
-  github = "VigoTech"
-  twitter = "vigotechallianc"
+  github = "LaRiojaTech"
+  twitter = "GDGLaRioja"
   email = "alliance@vigotech.org"
-  description = "Os grupos de tecnoloxía de Vigo facemos piña para promover a tecnoloxía na cidade"
+  description = "La Rioja Tech Alliance, grupos de tecnología en La Rioja"
   cover = "/images/bg.jpg"
   logo = "/images/logo_white.jpg"
