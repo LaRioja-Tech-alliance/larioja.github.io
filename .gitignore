@@ -26,6 +26,7 @@ _testmain.go
 website.iml
 *.iml
 
+.DS_Store
 # VigoTech
 
 docs/
