@@ -32,6 +32,20 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
+  
+  .responsiveCal {
+    position: relative;
+    width: 90%;
+    padding-bottom: 30%;
+    }
+     
+    .responsiveCal iframe {
+      position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
   font-size: 1.33333em;

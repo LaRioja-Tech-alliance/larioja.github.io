@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on La Rioja Tech Alliance</title>
-    <link>https://lariojatech.org/categories/</link>
-    <description>Recent content in Categories on La Rioja Tech Alliance</description>
+    <title>Categories on Vigo Tech Alliance</title>
+    <link>https://vigotech.org/categories/</link>
+    <description>Recent content in Categories on Vigo Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
+    <language>gl-es</language>
     
-	<atom:link href="https://lariojatech.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vigotech.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

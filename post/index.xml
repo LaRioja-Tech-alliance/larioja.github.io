@@ -1,41 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on La Rioja Tech Alliance</title>
-    <link>https://lariojatech.org/post/</link>
-    <description>Recent content in Posts on La Rioja Tech Alliance</description>
+    <title>Posts on Vigo Tech Alliance</title>
+    <link>https://vigotech.org/post/</link>
+    <description>Recent content in Posts on Vigo Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
+    <language>gl-es</language>
     <lastBuildDate>Fri, 14 Apr 2017 16:52:11 +0200</lastBuildDate>
     
-	<atom:link href="https://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vigotech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Grupos</title>
-      <link>https://lariojatech.org/post/vigotech-grupos/</link>
+      <link>https://vigotech.org/post/vigotech-grupos/</link>
       <pubDate>Fri, 14 Apr 2017 16:52:11 +0200</pubDate>
       
-      <guid>https://lariojatech.org/post/vigotech-grupos/</guid>
-      <description>GDG - La RiojaRioja{dotnet}womentechmakersNSSpainWordPress Logroño --</description>
+      <guid>https://vigotech.org/post/vigotech-grupos/</guid>
+      <description> Agile Vigo              A Industriosa              Blockchain.gal Vigo              GALPon            GalsTech          GDG Vigo            Grupo de Usuarios de Joomla de Vigo              JavascriptVigo            PHPVigo                PythonVigo              Seo Galicia            SysAdmin Galicia          UX Galicia            Vigo Android Developer Group          Vigo Brain          VigoJUG                Wordpress Pontevedra          Vigo Wordpress               </description>
     </item>
     
     <item>
       <title>Calendario</title>
-      <link>https://lariojatech.org/post/vigotech-calendario/</link>
+      <link>https://vigotech.org/post/vigotech-calendario/</link>
       <pubDate>Thu, 13 Apr 2017 16:52:11 +0200</pubDate>
       
-      <guid>https://lariojatech.org/post/vigotech-calendario/</guid>
-      <description>  </description>
+      <guid>https://vigotech.org/post/vigotech-calendario/</guid>
+      <description>Preme aquí para acceder no formato iCal</description>
+    </item>
+    
+    <item>
+      <title>Charlas</title>
+      <link>https://vigotech.org/post/vigotech-charlas/</link>
+      <pubDate>Sun, 04 Nov 2018 14:16:27 +0000</pubDate>
+      
+      <guid>https://vigotech.org/post/vigotech-charlas/</guid>
+      <description>A maioría de charlas está gravadas e dispoñibles para o seu visionado. Están son as catro últimas:
+    
+Preme aquí para ver tódalas charlas</description>
     </item>
     
     <item>
       <title>Chat</title>
-      <link>https://lariojatech.org/post/vigotech-charlas/</link>
+      <link>https://vigotech.org/post/vigotech-slack/</link>
       <pubDate>Fri, 14 Apr 2017 16:52:11 +0200</pubDate>
       
-      <guid>https://lariojatech.org/post/vigotech-charlas/</guid>
-      <description>Abierto a todo el mundo, es un punto de encuentro virtual de todos los grupos y un sitio para hacer un poco de networking: Mandanos un correo si quieres más informacion a &amp;ldquo;lariojatech@gmail.com&amp;rdquo;</description>
+      <guid>https://vigotech.org/post/vigotech-slack/</guid>
+      <description>Aberto a todo o mundo, é o punto de encontro virtual de todos os grupos e un bo sitio para facer un pouco de networking:
+
+Recibe unha invitación no teu correo clickando aquí</description>
     </item>
     
   </channel>
