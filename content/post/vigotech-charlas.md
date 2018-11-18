@@ -1,26 +1,17 @@
 +++
-date = "2017-05-01T21:29:21+02:00"
+date = "2017-04-14T16:52:11+02:00"
 draft = false
-title = "Charlas"
-weight = 102
+title = "Chat"
+weight = 104
 type = "post"
-class="post last talks"
+class="post last slack"
 
 +++
 
-A maioría de charlas está gravadas e dispoñibles para o seu visionado.
-Están son as tres últimas:
+Abierto a todo el mundo, es un punto de encuentro virtual de todos los grupos y un  sitio para hacer un poco de networking:
+<a href="mailto:lariojatech@gmail.com" target="_blank">
+![Slack](images/slack_larioja.png)
+<p class="view-more">
+Mandanos un correo si quieres más informacion a "lariojatech@gmail.com"</p>
+</a>
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-xs-12 col-sm-6 video">
-            <div class="embed-responsive  embed-responsive-16by9"><iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/WrL5H0Tmq-w" frameborder="0" allowfullscreen></iframe>
-            </div>
-         </div>
-        <div class="col-xs-12 col-sm-6 video"><div class="embed-responsive  embed-responsive-16by9"><iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/Q9c0dQTEyc8" frameborder="0" allowfullscreen></iframe></div></div>
-        <div class="col-xs-12 col-sm-6 video"><div class="embed-responsive  embed-responsive-16by9"><iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/x6wgM2WFX44" frameborder="0" allowfullscreen></iframe></div></div>
-</div></div>
-
-<span class="view-more">
-[Preme aquí para ver tódalas charlas](./page/videos/)
-</span>
