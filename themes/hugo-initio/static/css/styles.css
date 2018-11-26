@@ -825,6 +825,9 @@ footer.entry-meta .meta-in {
 .st-custom-button[data-network]:focus {
   color: #004488;
 }
+.social {
+  text-align: center;
+}
  .social a {
     text-decoration: none;
 }
@@ -835,3 +838,12 @@ footer.entry-meta .meta-in {
   display: block;
   max-width: 100%;
   margin: 0 auto; }		
+
+.grupos,
+.grupos p {
+  text-align: center;
+}
+.grupos img {
+  width: 100%;
+  max-width: 50vw;
+}
