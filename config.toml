@@ -28,7 +28,7 @@ publishDir = "docs"
     footerEnableFormWidget = false
 
 [[menu.main]]
-    name = "home"
+    name = "Inicio"
     url = "/"
     weight = 1
 [[menu.main]]

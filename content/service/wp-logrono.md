@@ -16,5 +16,3 @@ weight: 3
 		<i class="fa fa-github"></i>
 	</a>
 </div>
-<!--more-->
-Cuenta de WordPress Meetup Logroño, nos juntamos una vez al mes para hablar sobre #wordPress y cosas relacionadas el mundo digital ¿te apuntas?
