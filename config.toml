@@ -1,13 +1,69 @@
-baseURL = "https://lariojatech.org"
+baseURL = "http://lariojatech.org/"
 languageCode = "es-es"
 title = "La Rioja Tech Alliance"
+theme = "hugo-initio"
 publishDir = "docs"
-theme = "hugoscroll"
 
-[Params]
-  github = "LaRioja-Tech-alliance"
-  twitter = "lariojatech"
-  email = "lariojatech@gmail.com"
-  description = "Los grupos de tecnología de La Rioja hacemos piña para promover la tecnología"
-  cover = "./images/bg.jpg"
-  logo = "./images/riojatech-fondo-alliance.png"
+[params]
+    name = "La Rioja Tech Alliance"
+    description = "Los grupos de tecnología de La Rioja hacemos piña para promover la tecnología "
+    email = "lariojatech@gmail.com"
+#    phone = "+234 23 9873237"
+#    address = "La Rioja"
+    year = 2018
+    avatar = "images/logo.png"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "2, January 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = true
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "eventos"
+    url = "/post/"
+    weight = 5
+
+[params.disqus]
+#    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/TechRioja"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/LaRioja-Tech-alliance/"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:lariojatech@gmail.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
