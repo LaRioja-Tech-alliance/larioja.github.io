@@ -36,6 +36,15 @@ publishDir = "docs"
     url = "/post/"
     weight = 5
 
+[[menu.main]]
+	identifier = "conducta"
+    name = "codigo Conducta"
+    url = "/codigoconducta"
+    weight = 6
+[[menu.main]]    
+    name = "Codigo Entrada"
+    url = "/codigoentrada"
+    weight = 7
 [params.disqus]
 #    site = "hugo-initio-site.disqus.com"
 
