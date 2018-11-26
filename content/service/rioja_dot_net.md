@@ -19,4 +19,3 @@ weight: 2
 			<i class="fa fa-github"></i>
 		</a>
 	</div>
-<!--more-->

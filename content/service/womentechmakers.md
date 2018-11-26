@@ -15,4 +15,3 @@ weight: 30
 </a>	
 </div>
 
-<!--more-->

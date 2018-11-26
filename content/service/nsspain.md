@@ -19,5 +19,3 @@ weight: 50
 		<i class="fa fa-github"></i>
 	</a>
 </div>
-<!--more-->
-The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun!
