@@ -1,54 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vigo Tech Alliance</title>
-    <link>https://vigotech.org/post/</link>
-    <description>Recent content in Posts on Vigo Tech Alliance</description>
+    <title>Posts on La Rioja Tech Alliance</title>
+    <link>http://lariojatech.org/post/</link>
+    <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>gl-es</language>
-    <lastBuildDate>Fri, 14 Apr 2017 16:52:11 +0200</lastBuildDate>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 26 Nov 2018 13:04:28 +0100</lastBuildDate>
     
-	<atom:link href="https://vigotech.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Grupos</title>
-      <link>https://vigotech.org/post/vigotech-grupos/</link>
-      <pubDate>Fri, 14 Apr 2017 16:52:11 +0200</pubDate>
-      
-      <guid>https://vigotech.org/post/vigotech-grupos/</guid>
-      <description> Agile Vigo              A Industriosa              Blockchain.gal Vigo              GALPon            GalsTech          GDG Vigo            Grupo de Usuarios de Joomla de Vigo              JavascriptVigo            PHPVigo                PythonVigo              Seo Galicia            SysAdmin Galicia          UX Galicia            Vigo Android Developer Group          Vigo Brain          VigoJUG                Wordpress Pontevedra          Vigo Wordpress               </description>
-    </item>
     
     <item>
-      <title>Calendario</title>
-      <link>https://vigotech.org/post/vigotech-calendario/</link>
-      <pubDate>Thu, 13 Apr 2017 16:52:11 +0200</pubDate>
+      <title>Un podcast: Bueno para tí y bueno para tus clientes</title>
+      <link>http://lariojatech.org/post/182811/</link>
+      <pubDate>Mon, 26 Nov 2018 13:04:28 +0100</pubDate>
       
-      <guid>https://vigotech.org/post/vigotech-calendario/</guid>
-      <description>Preme aquí para acceder no formato iCal</description>
-    </item>
-    
-    <item>
-      <title>Charlas</title>
-      <link>https://vigotech.org/post/vigotech-charlas/</link>
-      <pubDate>Sun, 04 Nov 2018 14:16:27 +0000</pubDate>
-      
-      <guid>https://vigotech.org/post/vigotech-charlas/</guid>
-      <description>A maioría de charlas está gravadas e dispoñibles para o seu visionado. Están son as catro últimas:
-    
-Preme aquí para ver tódalas charlas</description>
-    </item>
-    
-    <item>
-      <title>Chat</title>
-      <link>https://vigotech.org/post/vigotech-slack/</link>
-      <pubDate>Fri, 14 Apr 2017 16:52:11 +0200</pubDate>
-      
-      <guid>https://vigotech.org/post/vigotech-slack/</guid>
-      <description>Aberto a todo o mundo, é o punto de encontro virtual de todos os grupos e un bo sitio para facer un pouco de networking:
-
-Recibe unha invitación no teu correo clickando aquí</description>
+      <guid>http://lariojatech.org/post/182811/</guid>
+      <description>Ponente:
+Fran González, también conocido como Madrillano en redes, es técnico de soporte en la plataforma de cursos de Joan Boluda. Gestiona la parte técnica de la Red Avpodcast que está basada en WordPress y fue Premio a la mejor Iniciativa de difusión del podcasting en 2016.
+Charla:
+Se dará a conocer las ventajas de este medio de comunicación para mejorar la imagen de marca y/o marca personal. Se indicará que se necesita para alojar un podcast en nuestro propio WordPress, como difundirlo a los distintos sitios (Apple y Google Podcast, IVoox, Spotify) así como consejos y errores a evitar.</description>
     </item>
     
   </channel>
