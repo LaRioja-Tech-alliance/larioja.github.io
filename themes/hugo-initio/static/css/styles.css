@@ -33,6 +33,7 @@ body {
   top: 0;
   left: 0;
   background-color: rgba(255, 255, 255, .85);
+  z-index: 1;
 }
 .navbar-collapse {
   -webkit-border-radius: 0;
@@ -819,16 +820,17 @@ footer.entry-meta .meta-in {
    cursor: pointer;
    font-weight: bold;
    color: #666666;
-   &:hover, &:focus {
-      color: #004488;
-   }
 }
- .social {
-                text-align: center;
-                a {
-                    text-decoration: none;
-                }
-            }
+.st-custom-button[data-network]:hover,
+.st-custom-button[data-network]:focus {
+  color: #004488;
+}
+ .social a {
+    text-decoration: none;
+}
+ .social .fa {
+    font-size: 30px;
+}
 .post-content img {
   display: block;
   max-width: 100%;
