@@ -24,15 +24,17 @@ body {
   -webkit-background-clip: padding-box;
   -moz-border-radius: 0;
   -moz-background-clip: padding;
-  border-radius: 0;
-  background-clip: padding-box;
+ 
   width: 100%;
 }
 .navbar.stick {
   position: fixed;
+  border-radius: 0;
+  background-clip: padding-box;
   top: 0;
   left: 0;
-  background-color: rgba(255, 255, 255, .85);
+  background-color: aquamarine;
+  #background-color: rgba(255, 255, 255, 1.0);
 }
 .navbar-collapse {
   -webkit-border-radius: 0;
@@ -42,15 +44,17 @@ body {
   border-radius: 0;
   background-clip: padding-box;
   font-family: "Open sans", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 300; 
   text-transform: uppercase;
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 .navbar-collapse .navbar-nav {
   float: none;
   margin: 0 auto;
   text-align: center;
 }
-.navbar-collapse .navbar-nav > li {
+.navbar-collapse .navbar-nav > li {	
   float: none;
   display: inline-block;
 }
