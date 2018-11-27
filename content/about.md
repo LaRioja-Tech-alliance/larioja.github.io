@@ -14,9 +14,9 @@ weight = 10
 
 ### Objetivos globales
 
-- Dinamizar la actividad tecnológica de nuestra comunidad,  mediante reuniones, talleres y otras actividades.
-- Incrementar la visibilida de las actividades tecnológicas.
-- Cooperar y aprovechar sinérgias entre grupos.
+- Dinamizar la actividad tecnológica de nuestra Comunidad,  mediante reuniones, talleres y otras actividades.
+- Incrementar la visibilidad de las actividades tecnológicas.
+- Cooperar y aprovechar sinergias entre grupos.
 - Servir de punto de encuentro entre las personas y las organizaciones interesadas.
 - Impulsar iniciativas de carácter tecnológico.
-- Fomentar la implantación de empresas tecnológicas en la comunidad de La Rioja.
+- Fomentar la implantación de empresas tecnológicas en la Comunidad de La Rioja.
