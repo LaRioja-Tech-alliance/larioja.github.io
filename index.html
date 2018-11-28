@@ -308,8 +308,10 @@
 
 <script>
 var host = "www.lariojatech.org";
-if ((host == window.location.host) && (window.location.protocol != "http:"))
+var host1 = "lariojatech.org";
+if ( (window.location.host == host || window.location.host == host1) && window.location.protocol != "https:") {  
     window.location.protocol = "http";
+}
 </script>
 
 
