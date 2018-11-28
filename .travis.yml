@@ -4,10 +4,10 @@ python:
     - "3.6"
 
 install:
-    # install latest release version
+    # install Version 0.51 de Hugo
     # - wget $(wget -qO- https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p}}')
-    - wget -qO- https://api.github.com/repos/gohugoio/hugo/releases/latest | sed -r -n '/browser_download_url/{/Linux-64bit.deb/{s@[^:]*:[[:space:]]*"([^"]*)".*@\1@g;p}}' | xargs wget
-    - sudo dpkg -i hugo_ext*.deb
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_0.51_Linux-64bit.deb
+    - sudo dpkg -i hugo*.deb
     - pip install Pygments
     - rm -rf docs 2> /dev/null
 
