@@ -23,7 +23,15 @@
 	
 
     
+<script>
 
+var host = "www.lariojatech.org";
+var host1 = "lariojatech.org";
+var host2="localhost:1313"
+if ( (window.location.host == host || window.location.host == host1 || window.location.host == host2) && window.location.protocol != "http:") {  
+    window.location.protocol = "http";
+}
+</script>
 </head>
 <body class="home">
 
