@@ -850,3 +850,7 @@ footer.entry-meta .meta-in {
   width: 100%;
   max-width: 50vw;
 }
+.sumario p
+{
+	 text-align:justify;
+}
