@@ -24,13 +24,13 @@ En  https://themes.gohugo.io/ tenemos todas los temas (o plantillas) sobre las q
 
 Supongamos que queremos usar el tema **initio** que es el que usamos en la página  de [RiojaTech Alliance](http://lariojatech.org/) . Para ello iremos a su URL https://themes.gohugo.io/hugo-initio/ y pulsaremos sobre el botón '**Download**', lo cual nos llevara a **GitHub**, a la dirección https://github.com/miguelsimoni/hugo-initio. Allí descargaremos el fichero **ZIP**, dándole a l botón **Download ZIP**.
 
-![github](.\github.png)
+![github](./github.PNG)
 
 
 
 Después descomprimiremos el fichero ZIP dentro del directorio **themes** , de tal manera que la estructura de nuestros directorios será como la siguiente:
 
-![directorios](.\directorios.png)
+![directorios](./directorios.PNG)
 
 Suele ser una buena idea copiar el  contenido del directorio `example-site` dentro de nuestro directorio principal para tener una plantilla sobre la que empezar a trabajar.
 
