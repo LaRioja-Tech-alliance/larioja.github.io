@@ -25,7 +25,15 @@
     {{ if .Site.Params.customsharethis }}
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=custom-share-buttons"></script>
     {{ end }}
-
+<script>
+//alert("Location. "+window.location.host);
+var host = "www.lariojatech.org";
+var host1 = "lariojatech.org";
+var host2="localhost:1313"
+if ( (window.location.host == host || window.location.host == host1 || window.location.host == host2) && window.location.protocol != "http:") {  
+    window.location.protocol = "http";
+}
+</script>
 </head>
 <body class="home">
 
