@@ -5,7 +5,7 @@
 <main id="main">
 			<h2 class="section-title"><span>EVENTOS</span></h2>					
 <div class="grupos">
-{{ range where .Data.Pages "Section" "post" }}
+{{ range where .Pages.ByDate "Section" "post" }}
 	<div class="col-sm-6 col-md-3">
 		<div class="entry-meta">
 				<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
