@@ -1,6 +1,6 @@
 ### Trabajando con Hugo
 
-Hugo**](https://gohugo.io/) es un software que permite crear sitios web  estáticos pero trabajando _casi_  como si fueran dinámicos.
+[Hugo](https://gohugo.io/) es un software que permite crear sitios web  estáticos pero trabajando _casi_  como si fueran dinámicos.
  Para ello podremos usar diferentes plantillas que configuraremos, para luego añadir entradas y contenido dinámico fácilmente. 
 
  Hugo usa [markdown](https://es.wikipedia.org/wiki/Markdown) para añadir los contenidos pero también podremos usar HTML, CSS y JavaScript si fuera necesario.
