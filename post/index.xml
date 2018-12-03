@@ -6,10 +6,19 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 05 Dec 2018 08:58:39 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Dec 2018 19:00:39 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Crear una página dinámica en GitHub</title>
+      <link>http://lariojatech.org/post/20181211/</link>
+      <pubDate>Tue, 11 Dec 2018 19:00:39 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20181211/</guid>
+      <description>&lt;p&gt;En esta charla se explicara como crear una pagina &amp;lsquo;dinamica&amp;rsquo; en GitHub, todo utilizando herramientas Open Source y sin ningún costo.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Mejorando el proceso de embarque en los aeropuertos a través de deep learning</title>
