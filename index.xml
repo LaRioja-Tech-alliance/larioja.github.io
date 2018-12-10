@@ -87,15 +87,6 @@ Objetivos globales  Dinamizar la actividad tecnológica de nuestra Comunidad, me
     </item>
     
     <item>
-      <title>Mejorando el proceso de embarque en los aeropuertos a través de deep learning</title>
-      <link>http://lariojatech.org/post/20181205/</link>
-      <pubDate>Wed, 05 Dec 2018 08:58:39 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/20181205/</guid>
-      <description>&lt;p&gt;Usando como base un algoritmo de detección de maletas basado en redes neuronales haremos un recorrido por las distintas arquitecturas de red, empezando por una convolución hasta llegar al state of the art.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Codigo Entrada</title>
       <link>http://lariojatech.org/codigoentrada/</link>
       <pubDate>Mon, 26 Nov 2018 16:49:05 +0100</pubDate>
