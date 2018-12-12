@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on La Rioja Tech Alliance</title>
+    <link>http://lariojatech.org/post/</link>
+    <description>Recent content in Posts on La Rioja Tech Alliance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 11 Dec 2018 19:00:39 +0100</lastBuildDate>
+    
+	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No hay ningun evento :-(</title>
+      <link>http://lariojatech.org/post/sineventos/</link>
+      <pubDate>Tue, 11 Dec 2018 19:00:39 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/sineventos/</guid>
+      <description>No hay ningún evento previsto en este momento.
+¿ Por qué no nos ayudas y propones uno ?</description>
+    </item>
+    
+  </channel>
+</rss>
