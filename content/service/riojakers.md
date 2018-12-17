@@ -7,9 +7,9 @@ weight: 40
 ![Riojakers](/img/riojakers.png)
 <div class="social">
     <a href="https://t.me/riojakers">
-		<i class="fa fa-telegram"></i>
+		  <i class="fa fa-telegram"></i>
     </a>
     <a href="https://github.com/Riojakers">
-                <i class="fa fa-github"></i>
+      <i class="fa fa-github"></i>
     </a>
 </div>
