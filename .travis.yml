@@ -26,3 +26,5 @@ deploy:
   target_branch: master  # branch contains blog content
   on:
     branch: source  # branch contains Hugo generator code
+notifications:
+    slack: spaincommunity:E9OlIvW3llK8kzKXY9vRSka4
