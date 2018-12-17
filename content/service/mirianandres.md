@@ -7,7 +7,11 @@ weight: 50
 <a href="https://seminariomirianandres.unirioja.es">![Seminario Mirian Andres](/img/mirianandres.png)</a>
 
 <div class="social">
-  <a href="seminariomirianandres+subscribe@googlegroups.com">
-    <i class="fa fa-mail"></i>
+<a href="https://seminariomirianandres.unirioja.es">
+<i class="fa fa-globe"></i>
+</a>
+
+<a href="mail:seminariomirianandres+subscribe@googlegroups.com">
+    <i class="fa fa-globe"></i>
   </a>
 </div>
