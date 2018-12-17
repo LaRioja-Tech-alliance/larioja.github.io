@@ -7,10 +7,21 @@ weight: 48
 <a href="http://www.indismatic.es">![Indismatic](/img/indismatic.jpg)</a>
 
 <div class="social">
-  <a href="https://www.facebook.com/indismatic/">
+
+<a href="http://www.indismatic.es">
+    <i class="fa fa-globe"></i>
+</a>
+
+  <a href="https://www.facebook.com/indismatic/"> 
     <i class="fa fa-facebook"></i>
-    <a href="https://twitter.com/Indismatic">
+</a>
+
+<a href="https://twitter.com/Indismatic">
     <i class="fa fa-twitter"></i>
-    </a>
-  </a>
+</a>
+
+<a href="mail:indismatic@gmail.com">
+    <i class="fa fa-globe"></i>
+</a>
+
 </div>
