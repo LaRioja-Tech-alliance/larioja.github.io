@@ -8,6 +8,6 @@ weight: 50
 
 <div class="social">
   <a href="seminariomirianandres+subscribe@googlegroups.com">
-    <i class="fa fa-gmail"></i>
+    <i class="fa fa-mail"></i>
   </a>
 </div>
