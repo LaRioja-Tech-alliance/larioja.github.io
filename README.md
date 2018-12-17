@@ -1,6 +1,6 @@
 # Pagina web de riojatech.org
 
-### Pagina web de Riojatech alliance creada con [HUGO](https://gohugo.io/)
+### Pagina web de Riojatech alliance creada con [HUGO](https://gohugo.io/) [![Build Status](https://travis-ci.org/LaRioja-Tech-alliance/www.lariojatech.org.svg?branch=source)](https://travis-ci.org/LaRioja-Tech-alliance/www.lariojatech.org)
 
 [**Hugo**](https://gohugo.io/) es un software que permite crear sitios web  estáticos pero trabajando _casi_  como si fueran dinámicos.
  Para ello podremos usar diferentes plantillas que configuraremos, para luego añadir entradas y contenido dinámico fácilmente. 
