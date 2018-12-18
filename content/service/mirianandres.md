@@ -11,7 +11,7 @@ weight: 50
 <i class="fa fa-globe"></i>
 </a>
 
-<a href="mail:seminariomirianandres+subscribe@googlegroups.com">
-    <i class="fa fa-globe"></i>
+<a href="mailto:seminariomirianandres+subscribe@googlegroups.com">
+    <i class="fa fa-envelope"></i>
   </a>
 </div>
