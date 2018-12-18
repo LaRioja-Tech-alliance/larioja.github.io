@@ -20,8 +20,8 @@ weight: 48
     <i class="fa fa-twitter"></i>
 </a>
 
-<a href="mail:indismatic@gmail.com">
-    <i class="fa fa-globe"></i>
+<a href="mailto:indismatic@gmail.com">
+    <i class="fa fa-envelope"></i>
 </a>
 
 </div>
