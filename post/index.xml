@@ -20,15 +20,5 @@
       <description>&lt;p&gt;En esta ocasión, Asier Tarancón, impartirá un Taller de Xamarin Forms. Durante estas 4 horas veremos dónde encaja Xamarin entre las distintas opciones de desarrollo multiplataforma. Hablaremos de sus ventajas y las razones por las que puede ser un buen framework para este tipo de aplicaciones. Pero es un taller, y como tal, la mayor parte del tiempo la dedicaremos a programar una aplicación. Desde 0, y utilizando las más novedosas herramientas que nos provee Xamarin, como son Shell o CollectionView (ambas aún en preview).&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>No hay ningun evento :-(</title>
-      <link>http://lariojatech.org/post/sineventos/</link>
-      <pubDate>Tue, 11 Dec 2018 19:00:39 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/sineventos/</guid>
-      <description>No hay ningún evento previsto en este momento.
-¿ Por qué no nos ayudas y propones uno ?</description>
-    </item>
-    
   </channel>
 </rss>
