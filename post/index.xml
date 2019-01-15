@@ -6,10 +6,19 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 17 Jan 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 19:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduccion al BigData</title>
+      <link>http://lariojatech.org/post/20190128/</link>
+      <pubDate>Mon, 28 Jan 2019 19:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190128/</guid>
+      <description>&lt;p&gt;Introducción al Big Data: Qué es, por qué surge y casos de uso.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Conocenos &amp; Beers ;-) </title>
