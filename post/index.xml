@@ -6,10 +6,19 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 28 Jan 2019 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 09:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Talleres de nuevas tecnologías para desarrolladores: Inteligencia artificial, Blockchain y Cloud Web Apps</title>
+      <link>http://lariojatech.org/post/20190202/</link>
+      <pubDate>Sat, 02 Feb 2019 09:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190202/</guid>
+      <description>&lt;p&gt;Talleres de nuevas tecnologías para desarrolladores: Inteligencia artificial, Blockchain y Cloud Web Apps&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Introduccion al BigData</title>
@@ -18,15 +27,6 @@
       
       <guid>http://lariojatech.org/post/20190128/</guid>
       <description>&lt;p&gt;Introducción al Big Data: Qué es, por qué surge y casos de uso.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Conocenos &amp; Beers ;-) </title>
-      <link>http://lariojatech.org/post/20190117/</link>
-      <pubDate>Thu, 17 Jan 2019 19:30:00 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/20190117/</guid>
-      <description>&lt;p&gt;Primera reunón del año. Vente, conocenos y aporta ideas para el año que entra.&lt;/p&gt;</description>
     </item>
     
   </channel>
