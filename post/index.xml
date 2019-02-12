@@ -6,10 +6,20 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 13 Feb 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 18:30:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rioja Tech Shessions</title>
+      <link>http://lariojatech.org/post/20190214/</link>
+      <pubDate>Thu, 14 Feb 2019 18:30:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190214/</guid>
+      <description>&lt;p&gt;Rioja Tech Shessions son un ciclo de charlas de mujeres relacionadas con el mundo de la Tecnología
+donde todos estamos invitados.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Procesos de la Productividad en 1 mes, 1 semana y 1 día</title>
