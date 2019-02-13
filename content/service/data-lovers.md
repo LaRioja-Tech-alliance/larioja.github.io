@@ -6,6 +6,9 @@ weight: 45
 ---
 ![Data Lovers](/img/data-lovers.jpg)
 <div class="social">
+	<a href="https://twitter.com/lovers_data">
+		<i class="fa fa-twitter"></i>
+	</a>
   <a href="https://www.meetup.com/es-ES/Data-Lovers-Date-technical-business/">
     <i class="fa fa-meetup"></i>
   </a>
