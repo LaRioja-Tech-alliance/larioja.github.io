@@ -1,137 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La Rioja Tech Alliance</title>
-    <link>http://lariojatech.org/</link>
-    <description>Recent content on La Rioja Tech Alliance</description>
+    <title>Pasados on La Rioja Tech Alliance</title>
+    <link>http://lariojatech.org/pasados/</link>
+    <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 26 Nov 2018 10:28:22 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 10:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://lariojatech.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Código de  conducta</title>
-      <link>http://lariojatech.org/codigoconducta/</link>
-      <pubDate>Mon, 26 Nov 2018 10:28:22 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/codigoconducta/</guid>
-      <description>Requerimos que todos los asistentes, ponentes, patrocinios y voluntariado de nuestra conferencia estén de acuerdo con el siguiente código de conducta. La organización se encargará de que se cumpla durante las reuniones y eventos, esperamos la colaboración de todos los participantes para ayudar a construir un entorno seguro para todo el mundo.
-La versión rápida Queremos que las reuniones y conferencias sea una experiencia libre de acoso para todo el mundo sin importar su género, su identidad o expresión de género, edad, orientación sexual, discapacidad, aspecto físico, raza o religión.</description>
-    </item>
-    
-    <item>
-      <title>GDG - LA RIOJA</title>
-      <link>http://lariojatech.org/service/gdg_larioja/</link>
-      <pubDate>Mon, 26 Nov 2018 10:28:22 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/gdg_larioja/</guid>
-      <description>
-         </description>
-    </item>
-    
-    <item>
-      <title>Rioja{dotnet}</title>
-      <link>http://lariojatech.org/service/rioja_dot_net/</link>
-      <pubDate>Mon, 26 Nov 2018 10:33:11 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/rioja_dot_net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress Logroño</title>
-      <link>http://lariojatech.org/service/wp-logrono/</link>
-      <pubDate>Mon, 26 Nov 2018 11:53:23 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/wp-logrono/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manifiesto</title>
-      <link>http://lariojatech.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lariojatech.org/about/</guid>
-      <description>Manifiesto de La Rioja Alliance Misión Acercar y mejorar las competencias de la &amp;ldquo;cultura tecnologica&amp;rdquo; de las personas y organizaciones que forman parte de la esfera de influencia de la comunidad de La Rioja&amp;rdquo;
-Objetivos globales  Dinamizar la actividad tecnológica de nuestra Comunidad, mediante reuniones, talleres y otras actividades. Incrementar la visibilidad de las actividades tecnológicas. Cooperar y aprovechar sinergias entre grupos. Servir de punto de encuentro entre las personas y las organizaciones interesadas.</description>
-    </item>
-    
-    <item>
-      <title>Womentechmakers</title>
-      <link>http://lariojatech.org/service/womentechmakers/</link>
-      <pubDate>Mon, 26 Nov 2018 10:51:16 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/womentechmakers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RioJakers</title>
-      <link>http://lariojatech.org/service/riojakers/</link>
-      <pubDate>Wed, 26 Dec 2018 11:53:23 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/riojakers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DataLovers</title>
-      <link>http://lariojatech.org/service/data-lovers/</link>
-      <pubDate>Mon, 17 Dec 2018 11:53:23 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/data-lovers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Indismatic</title>
-      <link>http://lariojatech.org/service/indismatic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lariojatech.org/service/indismatic/</guid>
-      <description>
-         </description>
-    </item>
-    
-    <item>
-      <title>NSSpain</title>
-      <link>http://lariojatech.org/service/nsspain/</link>
-      <pubDate>Mon, 26 Nov 2018 11:39:54 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/nsspain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminario Mirian Andres</title>
-      <link>http://lariojatech.org/service/mirianandres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lariojatech.org/service/mirianandres/</guid>
-      <description>
-     </description>
-    </item>
-    
-    <item>
-      <title>Aprendiendo Arduino</title>
-      <link>http://lariojatech.org/service/comunidad_arduino/</link>
-      <pubDate>Mon, 26 Nov 2018 10:30:11 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/service/comunidad_arduino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Una introducción a la computación cuántica para matemáticos e informáticos (II)</title>
-      <link>http://lariojatech.org/post/20190225/</link>
-      <pubDate>Mon, 25 Feb 2019 10:00:00 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/20190225/</guid>
-      <description>&lt;p&gt;En este curso (del que se prevén dos sesiones) Eduardo Sáenz de Cabeźon Irigaray presentará los fundamentos básicos de la computación cuántica desde el punto de vista de las matemáticas y la informática, es decir, sin entrar en la física de un ordenador cuántico&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Una introducción a la computación cuántica para matemáticos e informáticos (I)</title>
@@ -249,15 +127,6 @@ Escuela Técnica Superior de Ingeniería Industrial(Universidad de La Rioja) C\ 
       
       <guid>http://lariojatech.org/pasados/20181205/</guid>
       <description>&lt;p&gt;Usando como base un algoritmo de detección de maletas basado en redes neuronales haremos un recorrido por las distintas arquitecturas de red, empezando por una convolución hasta llegar al state of the art.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Codigo Entrada</title>
-      <link>http://lariojatech.org/codigoentrada/</link>
-      <pubDate>Mon, 26 Nov 2018 16:49:05 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/codigoentrada/</guid>
-      <description>Cualquier grupo interesado en pertenecer a RiojaTech Alliance, debe cumplir:  Ser un grupo o asociación de tecnología o ciencia. Ser un grupo o asociación sin ánimo de lucro. Compartir la misión y objetivos de RiojaTech. Debe cumplir el código de conducta de RiojaTech. Hacer reuniones o eventos de manera regular. Al menos un evento al año. Tener vocación abierta y que no sea restringido.  Procedimiento de incorporación  Correo a lista de organizadores (lariojatech@gmail.</description>
     </item>
     
   </channel>

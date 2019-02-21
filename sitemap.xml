@@ -65,13 +65,63 @@
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20190218/</loc>
+    <loc>http://lariojatech.org/pasados/20190218/</loc>
     <lastmod>2019-02-18T10:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20190214/</loc>
+    <loc>http://lariojatech.org/pasados/20190214/</loc>
     <lastmod>2019-02-14T18:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190213/</loc>
+    <lastmod>2019-02-13T19:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190202/</loc>
+    <lastmod>2019-02-02T09:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190130/</loc>
+    <lastmod>2019-01-30T11:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190128/</loc>
+    <lastmod>2019-01-28T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190117/</loc>
+    <lastmod>2019-01-17T19:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190111/</loc>
+    <lastmod>2019-01-11T17:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190110/</loc>
+    <lastmod>2019-01-10T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20181227/</loc>
+    <lastmod>2018-12-27T19:00:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20181211/</loc>
+    <lastmod>2018-12-27T19:00:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20181205/</loc>
+    <lastmod>2018-12-05T08:58:39+01:00</lastmod>
   </url>
   
   <url>
@@ -87,6 +137,12 @@
   <url>
     <loc>http://lariojatech.org/</loc>
     <lastmod>2018-11-26T10:28:22+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/</loc>
+    <lastmod>2019-02-18T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
