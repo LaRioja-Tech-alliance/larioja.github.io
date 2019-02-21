@@ -34,8 +34,11 @@ publishDir = "docs"
 [[menu.main]]
     name = "eventos"
     url = "/post/"
+    weight = 3
+[[menu.main]]
+    name = "Eventos Pasados"
+    url = "/pasados/"
     weight = 5
-
 [[menu.main]]
 	identifier = "conducta"
     name = "codigo Conducta"

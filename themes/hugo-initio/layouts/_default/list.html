@@ -1,33 +1,37 @@
 {{ partial "header.html" . }}
 
- 
-    
-<main id="main">
-			<h2 class="section-title"><span>EVENTOS</span></h2>					
-<div class="grupos">
-{{ range where .Pages.ByDate "Section" "post" }}
-	<div class="col-sm-6 col-md-3">
-		<div class="entry-meta">
-				<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
-		</div>
-		<h5 class="text-center">{{ .Title }}</h5>
-		<div class="sumario"> {{.Summary }}</div>
-		<p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Leer más</a>
-	</p>
+     
+<main id="main">			
 
-	</div>
-{{ end }}
-</div>
-	<div class="container">
-		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
+{{ if (eq .Section  "post" ) }}
+	<h2 class="section-title"><span>EVENTOS</span></h2>	
 
-                {{ range .Paginator.Pages }}
-		
-                {{ end }}
 
+{{ range (.Paginator 6).Pages.ByDate }}			
+		<div class="grupos">
+			<div class="col-sm-6 col-md-3">
+				<div class="entry-meta">
+						<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
+				</div>
+				<h5 class="text-center">{{ .Title }}</h5>
+				<div class="sumario"> {{.Summary }}</div>
+				<p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Leer más</a>
+				</p>
 			</div>
-		</div>
+		</div>		
+	{{ end }}
+	
+{{ end }}
+{{ if (eq .Section  "pasados" ) }}
+<ul>
+{{ range (.Paginator 6).Pages.ByDate }}	
+	 <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+      <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+{{ end }}
+</ul>
+{{ end }}
+<div class="container">
+		
 
 		<center class="">
 			<ul class="pagination">
@@ -37,6 +41,7 @@
 
 
 	</div>	<!-- /container -->
+	
 
 </main>
 

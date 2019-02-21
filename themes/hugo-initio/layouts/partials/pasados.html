@@ -1,0 +1,14 @@
+<div class="row section featured topspace">
+
+    <h2 class="section-title"><span>Eventos Antiguos</span></h2>
+
+    <div class="grupos">
+        {{ range where .Data.Pages "Section" "pasados" }}
+            <div class="col-sm-6 col-md-3">
+                <h5 class="text-center">{{ .Title }}</h5>
+				<p>{{ .Content }}</p>
+            </div>
+        {{ end }}
+    </div>
+
+</div> <!-- / section -->
