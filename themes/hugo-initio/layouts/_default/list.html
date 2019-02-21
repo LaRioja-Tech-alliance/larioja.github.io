@@ -4,9 +4,14 @@
 <main id="main">			
 
 {{ if (eq .Section  "post" ) }}
-	<h2 class="section-title"><span>EVENTOS</span></h2>	
-
-
+<div class="text-center">
+		<div >
+			<h3> EVENTOS  </h3>
+		</div >
+		<div>
+			<a href="/pasados/"> Ver Eventos Pasados</a>
+		</div >
+</div>
 {{ range (.Paginator 6).Pages.ByDate }}			
 		<div class="grupos">
 			<div class="col-sm-6 col-md-3">
@@ -23,6 +28,14 @@
 	
 {{ end }}
 {{ if (eq .Section  "pasados" ) }}
+	<div class="text-center">
+		<div >
+			<h3>EVENTOS PASADOS  </h3>
+		</div >
+		<div>
+			<a href="/post/">   Ver Eventos Futuros</a></span></h4>	
+		</div >
+</div>
 <ul>
 {{ range (.Paginator 6).Pages.ByDate }}	
 	 <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
