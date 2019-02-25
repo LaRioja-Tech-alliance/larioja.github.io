@@ -6,10 +6,20 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 28 Feb 2019 17:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 18:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Iniciación a Spring Boot</title>
+      <link>http://lariojatech.org/post/20190308/</link>
+      <pubDate>Fri, 08 Mar 2019 18:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190308/</guid>
+      <description>&lt;p&gt;Iniciación al framework Web para Java, &lt;strong&gt;Spring Boot&lt;/strong&gt;.
+Aprende a desarrollar aplicaciónes web empresariales facilmente con este entorno de trabajo lider en su sector.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Curso Práctico de Arduino</title>
