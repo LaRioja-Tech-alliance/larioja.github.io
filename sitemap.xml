@@ -60,8 +60,18 @@
   </url>
   
   <url>
+    <loc>http://lariojatech.org/post/20190330/</loc>
+    <lastmod>2019-03-30T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lariojatech.org/post/20190322/</loc>
     <lastmod>2019-03-22T09:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/post/20190316/</loc>
+    <lastmod>2019-03-16T10:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -150,14 +160,6 @@
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20190316/</loc>
-  </url>
-  
-  <url>
-    <loc>http://lariojatech.org/post/20190330/</loc>
-  </url>
-  
-  <url>
     <loc>http://lariojatech.org/categories/</loc>
     <priority>0</priority>
   </url>
@@ -176,7 +178,7 @@
   
   <url>
     <loc>http://lariojatech.org/post/</loc>
-    <lastmod>2019-03-22T09:00:00+05:00</lastmod>
+    <lastmod>2019-03-30T09:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
