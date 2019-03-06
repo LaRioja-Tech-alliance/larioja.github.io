@@ -6,10 +6,28 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 08 Mar 2019 18:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 09:00:00 +0500</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loading Riojaparty 2019 [Más allá del juego]</title>
+      <link>http://lariojatech.org/post/20190322/</link>
+      <pubDate>Fri, 22 Mar 2019 09:00:00 +0500</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190322/</guid>
+      <description>&lt;p&gt;Industria del video juego&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lucha Sumo [Arduino Day]</title>
+      <link>http://lariojatech.org/post/20190315/</link>
+      <pubDate>Fri, 15 Mar 2019 17:00:00 +0300</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190315/</guid>
+      <description>&lt;p&gt;El Arduino Day 2019 se celebrará el 16 de marzo, pero dado que queremos asistir a varios de los eventos del Arduino Day, hemos decidido celebrarlo en días diferentes para no coincidir entre las comunidades de España, especialmente con Zaragoza y Lugo.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Iniciación a Spring Boot</title>
@@ -19,6 +37,28 @@
       <guid>http://lariojatech.org/post/20190308/</guid>
       <description>&lt;p&gt;Iniciación al framework Web para Java, &lt;strong&gt;Spring Boot&lt;/strong&gt;.
 Aprende a desarrollar aplicaciónes web empresariales facilmente con este entorno de trabajo lider en su sector.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iniciación a Spring Boot</title>
+      <link>http://lariojatech.org/post/20190330/</link>
+      <pubDate>Fri, 08 Mar 2019 18:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190330/</guid>
+      <description>&lt;p&gt;Iniciación al framework Web para Java, &lt;strong&gt;Spring Boot&lt;/strong&gt;.
+Aprende a desarrollar aplicaciónes web empresariales facilmente con este entorno de trabajo lider en su sector.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arduino Day en La Rioja [Arduino Day]</title>
+      <link>http://lariojatech.org/post/20190316/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190316/</guid>
+      <description>&lt;p&gt;El Arduino Day 2019 se celebrará el 16 de marzo, pero dado que queremos asistir a varios de los eventos del Arduino Day, hemos decidido celebrarlo en días diferentes para no coincidir entre las comunidades de España, especialmente con Zaragoza y Lugo.&lt;/p&gt;
+
+&lt;p&gt;Agenda oficial:
+&lt;a href=&#34;https://www.aprendiendoarduino.com/talleres-arduino/arduino-day-logrono-2019/&#34;&gt;https://www.aprendiendoarduino.com/talleres-arduino/arduino-day-logrono-2019/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
