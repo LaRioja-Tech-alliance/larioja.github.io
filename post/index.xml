@@ -70,15 +70,5 @@
 &lt;p&gt;Hora: lunes 11 de marzo, 10:00&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Iniciación a Spring Boot</title>
-      <link>http://lariojatech.org/post/20190308/</link>
-      <pubDate>Fri, 08 Mar 2019 18:00:00 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/20190308/</guid>
-      <description>&lt;p&gt;Iniciación al framework Web para Java, &lt;strong&gt;Spring Boot&lt;/strong&gt;.
-Aprende a desarrollar aplicaciónes web empresariales facilmente con este entorno de trabajo lider en su sector.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
