@@ -23,6 +23,19 @@
     </item>
     
     <item>
+      <title>Tejiendo redes</title>
+      <link>http://lariojatech.org/post/20190328/</link>
+      <pubDate>Thu, 28 Mar 2019 19:30:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190328/</guid>
+      <description>&lt;p&gt;Con el análisis de datos en auge aparece la necesidad de crear visualizaciones potentes para dotar a estos datos de significado. En esta charla conoceremos Gephi, una herramienta Open Source para entender los grafos, ya que permite obtener información interesante que no podemos ver a simple vista, que ayuda a realizar hipótesis, descubrir patrones de conducta de los datos y aislar singularidades de la estructura.&lt;/p&gt;
+
+&lt;p&gt;Dejando atrás todo lo complejo de este tema, utilizaremos un ejemplo muy sencillo con el que aprenderemos un poco el uso de esta herramienta y el potencial que es capaz de darnos sobre un conjunto de datos concreto.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://riojadotnet.com/event/tejiendo-redes/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Loading Riojaparty 2019 [Más allá del juego]</title>
       <link>http://lariojatech.org/post/20190322/</link>
       <pubDate>Fri, 22 Mar 2019 09:00:00 +0500</pubDate>
@@ -39,7 +52,7 @@
       <guid>http://lariojatech.org/post/20190316/</guid>
       <description>&lt;p&gt;IMPORTANTE: HAY QUE USAR EL &lt;a href=&#34;https://gestionthinktic.larioja.org/alumnos/login/?redirect=preinscripciones%2Fsolicitar%2F%3Fevento%3D6630&#34;&gt;REGISTRO DEL CENTRO&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;SIN RESGISTRO NO SE ACCEDE&lt;/p&gt;
+&lt;p&gt;SIN REGISTRO NO SE ACCEDE&lt;/p&gt;
 
 &lt;p&gt;El Arduino Day 2019 se celebrará el 16 de marzo, pero dado que queremos asistir a varios de los eventos del Arduino Day, hemos decidido celebrarlo en días diferentes para no coincidir entre las comunidades de España, especialmente con Zaragoza y Lugo.&lt;/p&gt;
 
@@ -52,22 +65,9 @@
       <pubDate>Fri, 15 Mar 2019 17:00:00 +0300</pubDate>
       
       <guid>http://lariojatech.org/post/20190315/</guid>
-      <description>&lt;p&gt;PARA LA INSCRIBIRSE ES NECESARIO USAR &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf6QGso32OiVGY4TiNoz0he_1suWJk62cSyvzkAFOy0exae4Q/viewform&#34;&gt;ESTE ENLACE&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;PARA INSCRIBIRSE ES NECESARIO USAR &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSf6QGso32OiVGY4TiNoz0he_1suWJk62cSyvzkAFOy0exae4Q/viewform&#34;&gt;ESTE ENLACE&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;El Arduino Day 2019 se celebrará el 16 de marzo, pero dado que queremos asistir a varios de los eventos del Arduino Day, hemos decidido celebrarlo en días diferentes para no coincidir entre las comunidades de España, especialmente con Zaragoza y Lugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Presentación de TicsLaw: Asociación Riojana de Actualidad Legal TIC</title>
-      <link>http://lariojatech.org/post/20190311/</link>
-      <pubDate>Mon, 11 Mar 2019 10:00:00 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/20190311/</guid>
-      <description>&lt;p&gt;Ponente: Aitor Mora Astaburuaga (Asociación Riojana de Actualidad Legal TIC, cofundador del blog &lt;a href=&#34;http://ticslaw.es/&#34;&gt;TicsLaw&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
-
-&lt;p&gt;Hora: lunes 11 de marzo, 10:00&lt;/p&gt;</description>
     </item>
     
   </channel>
