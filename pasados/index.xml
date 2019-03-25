@@ -6,10 +6,19 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 16 Mar 2019 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 09:00:00 +0500</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loading Riojaparty 2019 [Más allá del juego]</title>
+      <link>http://lariojatech.org/pasados/20190322/</link>
+      <pubDate>Fri, 22 Mar 2019 09:00:00 +0500</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190322/</guid>
+      <description>&lt;p&gt;Industria del video juego&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arduino Day en La Rioja [Arduino Day]</title>
