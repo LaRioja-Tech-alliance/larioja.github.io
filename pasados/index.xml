@@ -6,10 +6,44 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 28 Mar 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 09:00:00 +0800</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arduino Day en La Rioja [Arduino Day]</title>
+      <link>http://lariojatech.org/pasados/20190330/</link>
+      <pubDate>Sat, 30 Mar 2019 09:00:00 +0800</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190330/</guid>
+      <description>&lt;p&gt;El Arduino Day 2019 se celebrará el 16 de marzo, pero dado que queremos asistir a varios de los eventos del Arduino Day, hemos decidido celebrarlo en días diferentes para no coincidir entre las comunidades de España, especialmente con Zaragoza y Lugo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.aprendiendoarduino.com/talleres-arduino/arduino-day-logrono-2019/&#34;&gt;Agenda oficial aquí&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visita guiada a La Calle Laurel para cenar y seguir hablando de Arduino</title>
+      <link>http://lariojatech.org/pasados/2019033002/</link>
+      <pubDate>Sat, 30 Mar 2019 09:00:00 +0800</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/2019033002/</guid>
+      <description>&lt;p&gt;Especialmente para los visitantes de fuera de Logroño, pero abierto a quien quiera apuntarse de los asistentes al Arduino Day y seguir hablando de Arduino o cualquier otra cosa&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.aprendiendoarduino.com/talleres-arduino/arduino-day-logrono-2019/&#34;&gt;Agenda oficial aquí&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arduino Day --- Pon un Maker en tu Empresa [Arduino Day]</title>
+      <link>http://lariojatech.org/pasados/20190329/</link>
+      <pubDate>Fri, 29 Mar 2019 18:30:00 +0300</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190329/</guid>
+      <description>&lt;p&gt;El Arduino Day 2019 se celebrará el 16 de marzo, pero dado que queremos asistir a varios de los eventos del Arduino Day.
+Mesa Coloquio con algunos de los ponentes del “Arduino Day Extension” sobre “Pon un Maker en tu Empresa“&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.aprendiendoarduino.com/talleres-arduino/arduino-day-logrono-2019/&#34;&gt;Agenda oficial aquí&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tejiendo redes</title>
