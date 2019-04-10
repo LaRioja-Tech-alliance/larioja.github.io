@@ -6,10 +6,19 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 30 Mar 2019 09:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Una introducción a la computación cuántica para matemáticos e informáticos (III)</title>
+      <link>http://lariojatech.org/pasados/20190408/</link>
+      <pubDate>Mon, 08 Apr 2019 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190408/</guid>
+      <description>&lt;p&gt;En esta tercera sesión del curso Eduardo Sáenz de Cabeźon Irigaray presentará los fundamentos básicos de la computación cuántica desde el punto de vista de las matemáticas y la informática, es decir, sin entrar en la física de un ordenador cuántico, y presentará algunos de los algoritmos más conocidos y relevantes del ámbito de la computación cuántica.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arduino Day en La Rioja [Arduino Day]</title>

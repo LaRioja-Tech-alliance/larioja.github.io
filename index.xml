@@ -135,6 +135,19 @@ Objetivos globales  Dinamizar la actividad tecnológica de nuestra Comunidad, me
     </item>
     
     <item>
+      <title>Introducción a la autenticación y autorización en Asp.Net Core</title>
+      <link>http://lariojatech.org/post/20190427/</link>
+      <pubDate>Sat, 27 Apr 2019 11:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190427/</guid>
+      <description>&lt;p&gt;La autenticación y la autorización son dos importantes subsistemas que han recibido bastantes novedades en Asp.Net Core. Incluso el propio subsistema de autenticación recibió cambios muy importantes entre la versión 1.1 y la 2.0 de Asp.Net Core.
+Al final, son elementos que vamos a utilizar en casi cada aplicación/API que desarrollemos, ya que suele ser un requisito habitual a implementar.
+Si quieres descubrir cómo funcionan estos mecanismos en la versión 2.2 de Asp.Net Core y aprender cómo lidiar con los requerimientos más habituales, esta es tu sesión.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://riojadotnet.com/event/introduccion-a-la-autenticacion-y-autorizacion-en-asp-net-core/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Next ’19 Extended La Rioja</title>
       <link>http://lariojatech.org/post/20190416/</link>
       <pubDate>Tue, 16 Apr 2019 19:00:00 +0100</pubDate>
@@ -156,10 +169,10 @@ Objetivos globales  Dinamizar la actividad tecnológica de nuestra Comunidad, me
     
     <item>
       <title>Una introducción a la computación cuántica para matemáticos e informáticos (III)</title>
-      <link>http://lariojatech.org/post/20190408/</link>
+      <link>http://lariojatech.org/pasados/20190408/</link>
       <pubDate>Mon, 08 Apr 2019 10:00:00 +0100</pubDate>
       
-      <guid>http://lariojatech.org/post/20190408/</guid>
+      <guid>http://lariojatech.org/pasados/20190408/</guid>
       <description>&lt;p&gt;En esta tercera sesión del curso Eduardo Sáenz de Cabeźon Irigaray presentará los fundamentos básicos de la computación cuántica desde el punto de vista de las matemáticas y la informática, es decir, sin entrar en la física de un ordenador cuántico, y presentará algunos de los algoritmos más conocidos y relevantes del ámbito de la computación cuántica.&lt;/p&gt;</description>
     </item>
     
