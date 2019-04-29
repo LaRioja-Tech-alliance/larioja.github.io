@@ -6,10 +6,25 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 07 May 2019 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biometría e Inteligencia Artificial aplicadas en educación</title>
+      <link>http://lariojatech.org/post/20190513/</link>
+      <pubDate>Mon, 13 May 2019 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190513/</guid>
+      <description>&lt;p&gt;Ponente: Alfredo Anaya Aranzubía (Director técnico de ADR Formación), José Luis Del Rincón (Gerente de ADR Formación)&lt;/p&gt;
+
+&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
+
+&lt;p&gt;Hora: lunes 13 de mayo, 10:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: ADR Formación, empresa riojana especializada en elearning, presenta dos nuevos servicios biométricos para la identificación de alumnos, resultado de un proyecto de I+D usando inteligencia artificial. Entre los temas que se tratarán en la charla se incluye IA y biometría conductual para garantizar la identidad personal en el elearning, tipos de biometría, FaceIdentity basado en biometría facial y Keyidentity basado en biometría de patrones de tecleo.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>I/O Extended 2019 La Rioja</title>
@@ -18,6 +33,21 @@
       
       <guid>http://lariojatech.org/post/20190507/</guid>
       <description>&lt;p&gt;Nos uniremos en directo al evento de Google Cloud online donde se presentara todas las nuevas tecnologias&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nuevas estrategias de optimización y métodos computacionales para el modelado y predicción estructural de las proteínas y sus interacciones</title>
+      <link>http://lariojatech.org/post/20190506/</link>
+      <pubDate>Mon, 06 May 2019 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190506/</guid>
+      <description>&lt;p&gt;Ponente: Juan Fernandez-Recio (Científico Titular, Instituto de las Ciencias de la Vid y el Vino - ICVV)&lt;/p&gt;
+
+&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
+
+&lt;p&gt;Hora: lunes 6 de mayo, 10:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: El entendimiento de procesos biológicos esenciales, como la asociación entre proteínas, requiere cada vez más de modelos computacionales que ayuden a interpretar y predecir su mecanismo y función a nivel molecular. En esta charla presentaremos de forma global las herramientas bioinformáticas que hemos desarrollado en nuestro grupo para estudiar interacciones entre proteínas y su aplicación a diferentes sistemas de interés biomédico y biotecnológico. También analizaremos cuáles son los retos que todavía quedan por resolver, y se discutirá sobre las nuevas estrategias que queremos implementar y la posibilidad de incorporar, mediante colaboración, métodos de optimización que han sido ya aplicados con éxito a problemas de complejidad similar en otros ámbitos científicos.&lt;/p&gt;</description>
     </item>
     
     <item>
