@@ -50,18 +50,5 @@
 &lt;p&gt;Resumen: El entendimiento de procesos biológicos esenciales, como la asociación entre proteínas, requiere cada vez más de modelos computacionales que ayuden a interpretar y predecir su mecanismo y función a nivel molecular. En esta charla presentaremos de forma global las herramientas bioinformáticas que hemos desarrollado en nuestro grupo para estudiar interacciones entre proteínas y su aplicación a diferentes sistemas de interés biomédico y biotecnológico. También analizaremos cuáles son los retos que todavía quedan por resolver, y se discutirá sobre las nuevas estrategias que queremos implementar y la posibilidad de incorporar, mediante colaboración, métodos de optimización que han sido ya aplicados con éxito a problemas de complejidad similar en otros ámbitos científicos.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Introducción a la autenticación y autorización en Asp.Net Core</title>
-      <link>http://lariojatech.org/post/20190427/</link>
-      <pubDate>Sat, 27 Apr 2019 11:00:00 +0100</pubDate>
-      
-      <guid>http://lariojatech.org/post/20190427/</guid>
-      <description>&lt;p&gt;La autenticación y la autorización son dos importantes subsistemas que han recibido bastantes novedades en Asp.Net Core. Incluso el propio subsistema de autenticación recibió cambios muy importantes entre la versión 1.1 y la 2.0 de Asp.Net Core.
-Al final, son elementos que vamos a utilizar en casi cada aplicación/API que desarrollemos, ya que suele ser un requisito habitual a implementar.
-Si quieres descubrir cómo funcionan estos mecanismos en la versión 2.2 de Asp.Net Core y aprender cómo lidiar con los requerimientos más habituales, esta es tu sesión.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://riojadotnet.com/event/introduccion-a-la-autenticacion-y-autorizacion-en-asp-net-core/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

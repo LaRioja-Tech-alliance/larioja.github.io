@@ -6,10 +6,23 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 16 Apr 2019 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 11:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducción a la autenticación y autorización en Asp.Net Core</title>
+      <link>http://lariojatech.org/pasados/20190427/</link>
+      <pubDate>Sat, 27 Apr 2019 11:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190427/</guid>
+      <description>&lt;p&gt;La autenticación y la autorización son dos importantes subsistemas que han recibido bastantes novedades en Asp.Net Core. Incluso el propio subsistema de autenticación recibió cambios muy importantes entre la versión 1.1 y la 2.0 de Asp.Net Core.
+Al final, son elementos que vamos a utilizar en casi cada aplicación/API que desarrollemos, ya que suele ser un requisito habitual a implementar.
+Si quieres descubrir cómo funcionan estos mecanismos en la versión 2.2 de Asp.Net Core y aprender cómo lidiar con los requerimientos más habituales, esta es tu sesión.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://riojadotnet.com/event/introduccion-a-la-autenticacion-y-autorizacion-en-asp-net-core/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Next ’19 Extended La Rioja</title>
