@@ -23,18 +23,23 @@
     </item>
     
     <item>
+      <title>Introduccion a Pytorch</title>
+      <link>http://lariojatech.org/post/20190521/</link>
+      <pubDate>Tue, 21 May 2019 19:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190521/</guid>
+      <description>&lt;p&gt;¿ Porque surgen los frameworks de deeplearning ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aprende los conceptos básicos de Pytorch&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Biometría e Inteligencia Artificial aplicadas en educación</title>
       <link>http://lariojatech.org/post/20190513/</link>
       <pubDate>Mon, 13 May 2019 10:00:00 +0100</pubDate>
       
       <guid>http://lariojatech.org/post/20190513/</guid>
-      <description>&lt;p&gt;Ponente: Alfredo Anaya Aranzubía (Director técnico de ADR Formación), José Luis Del Rincón (Gerente de ADR Formación)&lt;/p&gt;
-
-&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
-
-&lt;p&gt;Hora: lunes 13 de mayo, 10:00&lt;/p&gt;
-
-&lt;p&gt;Resumen: ADR Formación, empresa riojana especializada en elearning, presenta dos nuevos servicios biométricos para la identificación de alumnos, resultado de un proyecto de I+D usando inteligencia artificial. Entre los temas que se tratarán en la charla se incluye IA y biometría conductual para garantizar la identidad personal en el elearning, tipos de biometría, FaceIdentity basado en biometría facial y Keyidentity basado en biometría de patrones de tecleo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;ADR Formación, presentara de  dos nuevos servicios biométricos para la identificación de alumnos, resultado de un proyecto de I+D usando inteligencia artificial.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,14 +48,9 @@
       <pubDate>Sat, 11 May 2019 10:00:00 +0300</pubDate>
       
       <guid>http://lariojatech.org/post/20180511/</guid>
-      <description>Tráete tu portátil y colabora en un proyecto de software libre como es WordPress, no importa si no tienes experiencia y no necesitas saber nada de programación, únicamente ganas de colaborar.
-Agenda y Ponentes
-Cuándo
-11 de Mayo de 10:00 a 13:00 horas
-Dónde
-Centro Tecnológico de La Rioja Avenida Zaragoza 21 Logroño
-Registro
-http://gestionthinktic.larioja.org/preinscripciones/solicitar/?evento=6719</description>
+      <description>&lt;p&gt;Tráete tu portátil y colabora en un proyecto de software libre como es WordPress, no importa si no tienes experiencia y no necesitas saber nada de programación, únicamente ganas de colaborar.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/es-ES/WordPress-Logrono/events/261102905/&#34;&gt;Agenda y Ponentes&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
