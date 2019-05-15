@@ -74,12 +74,17 @@
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20190513/</loc>
+    <loc>http://lariojatech.org/post/20190517/</loc>
+    <lastmod>2019-05-17T19:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/20190513/</loc>
     <lastmod>2019-05-13T10:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20190509/</loc>
+    <loc>http://lariojatech.org/pasados/20190509/</loc>
     <lastmod>2019-05-09T18:00:00+02:00</lastmod>
   </url>
   
@@ -251,7 +256,7 @@
   
   <url>
     <loc>http://lariojatech.org/pasados/</loc>
-    <lastmod>2019-05-06T10:00:00+01:00</lastmod>
+    <lastmod>2019-05-13T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
