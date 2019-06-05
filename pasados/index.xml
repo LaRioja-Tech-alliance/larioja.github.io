@@ -6,10 +6,23 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 25 May 2019 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 12:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Área UR-Maker: el makerspace de la Universidad de La Rioja</title>
+      <link>http://lariojatech.org/pasados/20190603/</link>
+      <pubDate>Mon, 03 Jun 2019 12:00:00 +0200</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190603/</guid>
+      <description>&lt;p&gt;La profesora Alpha Pernía nos viene a hablar sobre el &lt;a href=&#34;https://www.unirioja.es/urmaker/&#34;&gt;Área UR-Maker&lt;/a&gt;, el espacio hacedor (o makerspace) de la UR ¿Qué es el Área UR-Maker? ¿Qué hay allí? ¿Qué se puede hacer? ¿Quiénes pueden trabajar en este espacio? Son algunas de las preguntas que se responderán en la charla. Para adelantar un poco el contenido de la charla, decir que el Área UR-Maker cuenta con los equipos, la maquinaria y el soporte técnico necesarios para que sus usuarios realicen proyectos académicos o proyectos personales de tipo técnico. El Área UR-Maker está destinada a favorecer el aprendizaje activo y autónomo de sus usuarios, compartir el conocimiento entre la comunidad global y divulgar las nuevas tecnologías a través de charlas y cursos gratuitos y abiertos.&lt;/p&gt;
+
+&lt;p&gt;Ponente: Alpha Pernía Espinoza, Universidad de La Rioja&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://seminariomirianandres.unirioja.es/2019/06/03/area-ur-maker-el-makerspace-de-la-universidad-de-la-rioja/&#34;&gt;Más información&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Crear un skill para Alexa es fácil, sencillo y para toda la familia</title>

@@ -135,6 +135,17 @@ Objetivos globales  Dinamizar la actividad tecnológica de nuestra Comunidad, me
     </item>
     
     <item>
+      <title>Iniciación a los servicios de integración continua online</title>
+      <link>http://lariojatech.org/post/20190629/</link>
+      <pubDate>Sat, 29 Jun 2019 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/20190629/</guid>
+      <description>El mundo del desarrollo de software sigue el camino de la automatización de procesos, parte de este camino son los procesos de integración y despliegue continuos.
+En esta charla/taller hablaremos sobre 3 grandes servicios online que nos permiten utilizar la integración continua en nuestros proyectos. Estos servicios son Travis CI, AppVeyor y Azure Pipelines.
+Para eso vamos a ver unos ejemplos sobre como añadirlos en .Net, C++, o incluso para ambos a la vez.</description>
+    </item>
+    
+    <item>
       <title>Rioja Party - 2019</title>
       <link>http://lariojatech.org/post/20190614/</link>
       <pubDate>Fri, 14 Jun 2019 15:00:00 +0100</pubDate>
@@ -151,10 +162,10 @@ Objetivos globales  Dinamizar la actividad tecnológica de nuestra Comunidad, me
     
     <item>
       <title>Área UR-Maker: el makerspace de la Universidad de La Rioja</title>
-      <link>http://lariojatech.org/post/20190603/</link>
+      <link>http://lariojatech.org/pasados/20190603/</link>
       <pubDate>Mon, 03 Jun 2019 12:00:00 +0200</pubDate>
       
-      <guid>http://lariojatech.org/post/20190603/</guid>
+      <guid>http://lariojatech.org/pasados/20190603/</guid>
       <description>&lt;p&gt;La profesora Alpha Pernía nos viene a hablar sobre el &lt;a href=&#34;https://www.unirioja.es/urmaker/&#34;&gt;Área UR-Maker&lt;/a&gt;, el espacio hacedor (o makerspace) de la UR ¿Qué es el Área UR-Maker? ¿Qué hay allí? ¿Qué se puede hacer? ¿Quiénes pueden trabajar en este espacio? Son algunas de las preguntas que se responderán en la charla. Para adelantar un poco el contenido de la charla, decir que el Área UR-Maker cuenta con los equipos, la maquinaria y el soporte técnico necesarios para que sus usuarios realicen proyectos académicos o proyectos personales de tipo técnico. El Área UR-Maker está destinada a favorecer el aprendizaje activo y autónomo de sus usuarios, compartir el conocimiento entre la comunidad global y divulgar las nuevas tecnologías a través de charlas y cursos gratuitos y abiertos.&lt;/p&gt;
 
 &lt;p&gt;Ponente: Alpha Pernía Espinoza, Universidad de La Rioja&lt;/p&gt;
