@@ -6,10 +6,30 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 14 Jun 2019 15:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2019 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Iniciación a los servicios de integración continua online</title>
+      <link>http://lariojatech.org/pasados/20190629/</link>
+      <pubDate>Sat, 29 Jun 2019 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190629/</guid>
+      <description>El mundo del desarrollo de software sigue el camino de la automatización de procesos, parte de este camino son los procesos de integración y despliegue continuos.
+En esta charla/taller hablaremos sobre 3 grandes servicios online que nos permiten utilizar la integración continua en nuestros proyectos. Estos servicios son Travis CI, AppVeyor y Azure Pipelines.
+Para eso vamos a ver unos ejemplos sobre como añadirlos en .Net, C++, o incluso para ambos a la vez.</description>
+    </item>
+    
+    <item>
+      <title>Buenas prácticas para evitar y solucionar errores en WordPress</title>
+      <link>http://lariojatech.org/pasados/20190627/</link>
+      <pubDate>Thu, 27 Jun 2019 19:30:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20190627/</guid>
+      <description>&lt;p&gt;Si nunca te ha dejado de funcionar un WordPress por una actualización, no has borrado por error algo que no debías o no te has enfrentado a una Pantalla Blanca de la Muerte, te puedes considerar afortunado.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Rioja Party - 2019</title>
