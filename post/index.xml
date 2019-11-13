@@ -6,10 +6,27 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 05 Nov 2019 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 11:51:22 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SensoGraph: Geometría computacional para la evaluación rápida y sencilla de alimentos</title>
+      <link>http://lariojatech.org/post/2019_11_19/</link>
+      <pubDate>Wed, 13 Nov 2019 11:51:22 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/2019_11_19/</guid>
+      <description>&lt;p&gt;Ponente: David Orden Martín (Universidad de Alcalá de Henares)&lt;/p&gt;
+
+&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
+
+&lt;p&gt;Hora: martes 6 de noviembre, 13:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: El análisis sensorial de alimentos es una herramienta clave en la industria alimentaria. Sin embargo, la mayoría de pequeñas y medianas empresas no pueden permitírselo porque los métodos clásicos resultan costosos en tiempo y dinero. Por ello hemos desarrollado el método SensoGraph que, utilizando técnicas geométricas fáciles de entender y computacionalmente eficientes, permite obtener resultados útiles sobre la opinión de los consumidores de manera rápida y sencilla.&lt;/p&gt;
+
+&lt;p&gt;Nota: puedes encontrar información adicional sobre el proyecto SensoGraph a través de &lt;a href=&#34;https://www.uah.es/es/investigacion/servicios-para-empresas/Oferta-Cientifico-Tecnologico/SensoGraph-Metodo-rapido-y-barato-para-el-posicionado-sensorial-de-alimentos/&#34;&gt;este enlace&lt;/a&gt; de la Universidad de Alcalá de Henares y también en &lt;a href=&#34;https://www.eldiario.es/clm/deciencia/grupo-investigadores-utiliza-geometria-analizar_6_941115898.html&#34;&gt;esta noticia&lt;/a&gt; de eldiario.es.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Experiencias en Kaggle: aprender Ciencia de Datos compitiendo y disfrutando</title>
