@@ -6,26 +6,26 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 13 Nov 2019 11:51:22 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2019 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SensoGraph: Geometría computacional para la evaluación rápida y sencilla de alimentos</title>
-      <link>http://lariojatech.org/post/2019_11_19/</link>
-      <pubDate>Wed, 13 Nov 2019 11:51:22 +0100</pubDate>
+      <title>Búsqueda de Modelos de Machine Learning con GA-PARSIMONY y su aplicación en proyectos de Ingeniería</title>
+      <link>http://lariojatech.org/post/2019_11_26/</link>
+      <pubDate>Tue, 26 Nov 2019 13:00:00 +0100</pubDate>
       
-      <guid>http://lariojatech.org/post/2019_11_19/</guid>
-      <description>&lt;p&gt;Ponente: David Orden Martín (Universidad de Alcalá)&lt;/p&gt;
+      <guid>http://lariojatech.org/post/2019_11_26/</guid>
+      <description>&lt;p&gt;Ponente: Francisco Javier Martínez de Pisón Ascacíbar (Grupo EDMANS - Universidad de La Rioja)&lt;/p&gt;
 
 &lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
 
-&lt;p&gt;Hora: martes 6 de noviembre, 13:00&lt;/p&gt;
+&lt;p&gt;Hora: martes 26 de noviembre, 13:00&lt;/p&gt;
 
-&lt;p&gt;Resumen: El análisis sensorial de alimentos es una herramienta clave en la industria alimentaria. Sin embargo, la mayoría de pequeñas y medianas empresas no pueden permitírselo porque los métodos clásicos resultan costosos en tiempo y dinero. Por ello hemos desarrollado el método SensoGraph que, utilizando técnicas geométricas fáciles de entender y computacionalmente eficientes, permite obtener resultados útiles sobre la opinión de los consumidores de manera rápida y sencilla.&lt;/p&gt;
+&lt;p&gt;Resumen:  En esta charla se hablará de las experiencias y lecciones aprendidas en algunos proyectos de aprendizaje automático (Machine Learning) en los que ha trabajado el Grupo EDMANS (Engineering Data Mining And Numerical Simulations) para la mejora de procesos industriales, de diseño mecánico o estructural, medioambiental, empresarial, etc. Además, se hablará del uso de la librería para R, denominada «GA-PARSIMONY»; que ha sido desarrollada dentro del propio grupo de investigación. Esta librería permite realizar una búsqueda automática, mediante Algoritmos Genéticos, de las mejores variables y parámetros de cada algoritmo en base a un doble criterio de optimización: precisión y parsimonia. El objetivo final es la obtención de modelos precisos con un bajo número de entradas que los haga robustos ante perturbaciones y ruidos.&lt;/p&gt;
 
-&lt;p&gt;Nota: puedes encontrar información adicional sobre el proyecto SensoGraph a través de &lt;a href=&#34;https://www.uah.es/es/investigacion/servicios-para-empresas/Oferta-Cientifico-Tecnologico/SensoGraph-Metodo-rapido-y-barato-para-el-posicionado-sensorial-de-alimentos/&#34;&gt;este enlace&lt;/a&gt; de la Universidad de Alcalá y también en &lt;a href=&#34;https://www.eldiario.es/clm/deciencia/grupo-investigadores-utiliza-geometria-analizar_6_941115898.html&#34;&gt;esta noticia&lt;/a&gt; de eldiario.es.&lt;/p&gt;</description>
+&lt;p&gt;La información sobre esta charla está disponible en el &lt;a href=&#34;https://seminariomirianandres.unirioja.es/2019/11/19/sensograph-geometria-computacional-para-la-evaluacion-rapida-y-sencilla-de-alimentos/&#34;&gt;siguiente enlace&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

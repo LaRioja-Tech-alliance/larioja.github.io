@@ -6,10 +6,27 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 17 Oct 2019 19:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SensoGraph: Geometría computacional para la evaluación rápida y sencilla de alimentos</title>
+      <link>http://lariojatech.org/pasados/20191119/</link>
+      <pubDate>Tue, 19 Nov 2019 13:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20191119/</guid>
+      <description>&lt;p&gt;Ponente: David Orden Martín (Universidad de Alcalá)&lt;/p&gt;
+
+&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
+
+&lt;p&gt;Hora: martes 19 de noviembre, 13:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: El análisis sensorial de alimentos es una herramienta clave en la industria alimentaria. Sin embargo, la mayoría de pequeñas y medianas empresas no pueden permitírselo porque los métodos clásicos resultan costosos en tiempo y dinero. Por ello hemos desarrollado el método SensoGraph que, utilizando técnicas geométricas fáciles de entender y computacionalmente eficientes, permite obtener resultados útiles sobre la opinión de los consumidores de manera rápida y sencilla.&lt;/p&gt;
+
+&lt;p&gt;Nota: puedes encontrar información adicional sobre el proyecto SensoGraph a través de &lt;a href=&#34;https://sensograph.it&#34;&gt;este enlace&lt;/a&gt; de la Universidad de Alcalá y también en &lt;a href=&#34;https://www.eldiario.es/clm/deciencia/grupo-investigadores-utiliza-geometria-analizar_6_941115898.html&#34;&gt;esta noticia&lt;/a&gt; de eldiario.es.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Cómo migrar de Joomla a WordPress sin dolores de cabeza, si eso es posible</title>
