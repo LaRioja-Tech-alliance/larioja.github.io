@@ -6,30 +6,30 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 03 Dec 2019 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 19:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lenguaje Julia y Conjuntos de Julia</title>
-      <link>http://lariojatech.org/post/20191203/</link>
-      <pubDate>Tue, 03 Dec 2019 13:00:00 +0100</pubDate>
+      <title>Supremacía cuántica: ¿Qué es? ¿Qué importancia tiene? ¿Se ha logrado?</title>
+      <link>http://lariojatech.org/post/20191211/</link>
+      <pubDate>Wed, 11 Dec 2019 19:00:00 +0100</pubDate>
       
-      <guid>http://lariojatech.org/post/20191203/</guid>
-      <description>&lt;p&gt;Ponente: Luis Javier Hernández Paricio (Catedrático de Geometría y Topología - Universidad de La Rioja)&lt;/p&gt;
+      <guid>http://lariojatech.org/post/20191211/</guid>
+      <description>&lt;p&gt;Ponente: Eduardo Sáenz de Cabezón Irigaray (Universidad de La Rioja)&lt;/p&gt;
 
-&lt;p&gt;Lugar: Seminario Mirian Andrés (Edificio CCT)&lt;/p&gt;
+&lt;p&gt;Lugar: Aula Magna (Edificio CCT)&lt;/p&gt;
 
-&lt;p&gt;Hora: martes 3 de diciembre, 13:00&lt;/p&gt;
+&lt;p&gt;Hora: miércoles 11 de diciembre, 19:00&lt;/p&gt;
 
-&lt;p&gt;Resumen:  En esta sesión se presentará una introducción al Lenguaje Julia desde una perspectiva de usuario que ha implementado en Julia algunos algoritmos matemáticos.&lt;/p&gt;
+&lt;p&gt;Resumen: A la mayoría la computación cuántica nos suena a una especie de ciencia ficción del futuro que parece que cada vez está más cerca: superordenadores casi mágicos que romperán la seguridad informática y darán un poder inimaginable a la inteligencia artificial entre otras cosas. Pero nos suena a eso: a futuro incierto, algo que quizá nunca lleguemos a ver.&lt;/p&gt;
 
-&lt;p&gt;Se dará una idea general de las características de algunos Entornos de Desarrollo Integrados (IDE) para Julia (Athom, Jupyter)  y  algunas de las propiedades del lenguaje: rapidez de ejecución, tipos, métodos y «multiple dispatch», relaciones con otros lenguajes, etc. También  se comentarán algunos temas como paralelización,  futuro uso en Big Data, etc.&lt;/p&gt;
+&lt;p&gt;En octubre de este año, Google anunció que había alcanzado la supremacía cuántica. ¿Ha llegado ya ese futuro? ¿Qué significa esa supremacía? ¿Estamos ya en el inicio de la era de los ordenadores cuánticos? ¿Es cierto el anuncio de Google?&lt;/p&gt;
 
-&lt;p&gt;Se pondrá como ejemplo un paquete que hemos implementado para la visualización de fractales asociados a la iteración de una función racional. En este paquete se definen numerosas funciones que  utilizan diversos tipos (principalmente basados  en números complejos y arrays de dimensión múltiple)  y otros paquetes como Polynomial.jl, Color.jl, PyPlot.jl, etc.&lt;/p&gt;
+&lt;p&gt;Nota: esta sesión se organiza de manera conjunta con la Semana de la Ciencia 2019 de la Facultad de Ciencia y Tecnología de la Universidad de La Rioja. Puedes encontrar más información sobre la misma a través del &lt;a href=&#34;https://www.unirioja.es/facultades_escuelas/fct/actividades/ciencia19_20.shtml&#34;&gt;siguiente enlace&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;La información sobre esta charla está disponible en el &lt;a href=&#34;https://seminariomirianandres.unirioja.es/2019/12/03/lenguaje-julia-y-conjuntos-de-julia/&#34;&gt;siguiente enlace&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;La información sobre esta charla está disponible en el &lt;a href=&#34;https://seminariomirianandres.unirioja.es/2019/12/11/supremacia-cuantica-que-es-que-importancia-tiene-se-ha-logrado/&#34;&gt;siguiente enlace&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
