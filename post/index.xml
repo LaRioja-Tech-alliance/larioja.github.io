@@ -6,55 +6,43 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 17 Dec 2019 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 09:30:00 +0630</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A la mayoría, la tecnología nos hace las cosas más fáciles. A las personas con discapacidad se las hace posibles.</title>
-      <link>http://lariojatech.org/post/20191217/</link>
-      <pubDate>Tue, 17 Dec 2019 13:00:00 +0100</pubDate>
+      <title>WarGame [Zurracapoteconf]</title>
+      <link>http://lariojatech.org/post/20200222/</link>
+      <pubDate>Sat, 22 Feb 2020 09:30:00 +0630</pubDate>
       
-      <guid>http://lariojatech.org/post/20191217/</guid>
-      <description>&lt;p&gt;Ponente: Jordi Lagares Roset (Pofesor de Matemáticas, Institut Pla de l’Estany, Banyoles, y fundador del &lt;a href=&#34;http://www.xtec.cat/~jlagares/&#34;&gt;Projecte Fressa&lt;/a&gt; para Educación Especial)&lt;/p&gt;
+      <guid>http://lariojatech.org/post/20200222/</guid>
+      <description>&lt;p&gt;Lugar: Centro Cultural ibercaja&lt;/p&gt;
 
-&lt;p&gt;Lugar: Aula 035 (Edificio CCT)&lt;/p&gt;
+&lt;p&gt;Hora: Sábado 22 de Febrero, 09:30&lt;/p&gt;
 
-&lt;p&gt;Hora: martes 17 de diciembre, 13:00&lt;/p&gt;
+&lt;p&gt;Resumen: Evento con 8 ponentes que nos hablaran del front/back/ui/iot en la Zurracapoteconf.&lt;/p&gt;
 
-&lt;p&gt;Resumen: “The user interface as an amplifier of human endeavour”. Galileo nos mostró que el telescopio no sólo era una herramienta para ver las cosas más cerca, sino una herramienta para cambiar nuestra concepción del mundo. No sólo era un “amplificador” de objetos, sino un “amplificador” de nuestra propia mente.&lt;/p&gt;
+&lt;p&gt;Pasate por el Centro Cultural Iberja en Portales y ponte al dia con las tecnologias.&lt;/p&gt;
 
-&lt;p&gt;En los años 50, unos investigadores, Bush, Licklider, Engelbart, Kay, Papert…, se dieron cuenta de que el “ordenador” no era, “sólo”, una máquina de calcular. En seguida descubrieron que podían ser un amplificador de la mente humana (Augmenting Human Intellect, en sus propias palabras). Para que esto fuera posible y llegase a la mayoría de las personas fue imprescindible desarrollar las interfaces de usuario.&lt;/p&gt;
-
-&lt;p&gt;Dichos investigadores se olvidaron de una parte importante de la población. Muchas personas con diversidad funcional que no podían usar dichas interfaces de usuario. Por lo cual no podían acceder a los ordenadores.&lt;/p&gt;
-
-&lt;p&gt;El Projecte Fressa es un conjunto de herramientas (software), interfaces de usuario, para personas con diversidad funcional cuyo objetivo es cerrar ese “gap”.&lt;/p&gt;
-
-&lt;p&gt;Pero, aunque lo anterior fue el objetivo inicial, nos hemos dado cuenta de una cosa mucho más importante. El hecho de que dichas personas pudieran tener acceso al ordenador les ha permitido la posibilidad de actuar en sociedad de una forma mucho más normalizada.&lt;/p&gt;
-
-&lt;p&gt;“Puedo usar el ordenador como todo el mundo. Puedo ser como todo el mundo gracias al ordenador”.&lt;/p&gt;</description>
+&lt;p&gt;Más informacion y entradas en la (&lt;a href=&#34;http://zurracapoteconf.appspot.com/&#34;&gt;web del evento&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Supremacía cuántica: ¿Qué es? ¿Qué importancia tiene? ¿Se ha logrado?</title>
-      <link>http://lariojatech.org/post/20191211/</link>
-      <pubDate>Wed, 11 Dec 2019 19:00:00 +0100</pubDate>
+      <title>WarGame [Zurracapoteconf]</title>
+      <link>http://lariojatech.org/post/20200221/</link>
+      <pubDate>Fri, 21 Feb 2020 20:00:00 +0130</pubDate>
       
-      <guid>http://lariojatech.org/post/20191211/</guid>
-      <description>&lt;p&gt;Ponente: Eduardo Sáenz de Cabezón Irigaray (Universidad de La Rioja)&lt;/p&gt;
+      <guid>http://lariojatech.org/post/20200221/</guid>
+      <description>&lt;p&gt;Lugar: Cines Modernos&lt;/p&gt;
 
-&lt;p&gt;Lugar: Aula Magna (Edificio CCT)&lt;/p&gt;
+&lt;p&gt;Hora: Viernes 21 de Febrero, 22:00&lt;/p&gt;
 
-&lt;p&gt;Hora: miércoles 11 de diciembre, 19:00&lt;/p&gt;
+&lt;p&gt;Resumen: En los cines Modernos te invitamos al cine y como introduccion al festival de al Zurracapote veremos la pelicula WarGames.&lt;/p&gt;
 
-&lt;p&gt;Resumen: A la mayoría la computación cuántica nos suena a una especie de ciencia ficción del futuro que parece que cada vez está más cerca: superordenadores casi mágicos que romperán la seguridad informática y darán un poder inimaginable a la inteligencia artificial entre otras cosas. Pero nos suena a eso: a futuro incierto, algo que quizá nunca lleguemos a ver.&lt;/p&gt;
+&lt;p&gt;Introducción a la pelicula con la explicacion de porque cambio el mundo de la seguridad, sobretodo en Estados Unidos.&lt;/p&gt;
 
-&lt;p&gt;En octubre de este año, Google anunció que había alcanzado la supremacía cuántica. ¿Ha llegado ya ese futuro? ¿Qué significa esa supremacía? ¿Estamos ya en el inicio de la era de los ordenadores cuánticos? ¿Es cierto el anuncio de Google?&lt;/p&gt;
-
-&lt;p&gt;Nota: esta sesión se organiza de manera conjunta con la Semana de la Ciencia 2019 de la Facultad de Ciencia y Tecnología de la Universidad de La Rioja. Puedes encontrar más información sobre la misma a través del &lt;a href=&#34;https://www.unirioja.es/facultades_escuelas/fct/actividades/ciencia19_20.shtml&#34;&gt;siguiente enlace&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;La información sobre esta charla está disponible en el &lt;a href=&#34;https://seminariomirianandres.unirioja.es/2019/12/11/supremacia-cuantica-que-es-que-importancia-tiene-se-ha-logrado/&#34;&gt;siguiente enlace&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Más informacion y entradas en la (&lt;a href=&#34;http://zurracapoteconf.appspot.com/&#34;&gt;web del evento&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
   </channel>
