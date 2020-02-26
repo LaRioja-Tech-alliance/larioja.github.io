@@ -69,18 +69,23 @@
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20200222/</loc>
+    <loc>http://lariojatech.org/pasados/20200222/</loc>
     <lastmod>2020-02-22T09:30:00+06:30</lastmod>
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20200221/</loc>
+    <loc>http://lariojatech.org/pasados/20200221/</loc>
     <lastmod>2020-02-21T20:00:00+01:30</lastmod>
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/28012020/</loc>
+    <loc>http://lariojatech.org/pasados/28012020/</loc>
     <lastmod>2020-01-28T12:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/post/sineventos/</loc>
+    <lastmod>2020-01-11T19:00:39+01:00</lastmod>
   </url>
   
   <url>
@@ -356,13 +361,13 @@
   
   <url>
     <loc>http://lariojatech.org/pasados/</loc>
-    <lastmod>2019-12-17T13:00:00+01:00</lastmod>
+    <lastmod>2020-02-22T09:30:00+06:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lariojatech.org/post/</loc>
-    <lastmod>2020-02-22T09:30:00+06:30</lastmod>
+    <lastmod>2020-01-11T19:00:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
