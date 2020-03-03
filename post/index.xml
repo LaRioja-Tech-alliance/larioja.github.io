@@ -6,10 +6,66 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 09 Mar 2020 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 09:30:00 +1000</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ArduinoDay 2020.</title>
+      <link>http://lariojatech.org/post/28032020/</link>
+      <pubDate>Sat, 28 Mar 2020 09:30:00 +1000</pubDate>
+      
+      <guid>http://lariojatech.org/post/28032020/</guid>
+      <description>&lt;p&gt;Ponente: Construye tu robot y participa en las competiciones&lt;/p&gt;
+
+&lt;p&gt;Lugar: Centro Ibercaja La Rioja&lt;/p&gt;
+
+&lt;p&gt;Hora: Viernes 28 de marzo, 09:30&lt;/p&gt;
+
+&lt;p&gt;Qué es el Arduino Day
+Arduino Day es una celebración mundial del cumpleaños de Arduino. Es un evento de 24 horas, organizado directamente por la comunidad y por los fundadores de Arduino, que reúne a las personas para compartir sus experiencias y aprender más sobre esta plataforma de código abierto.&lt;/p&gt;
+
+&lt;p&gt;Arduino es una placa electrónica con un microcontrolador y entradas y salidas para interactuar con el mundo exterior. Con un Arduino es posible conectar sensores a las entradas (como una sonda de temperatura) y actuadores o indicadores a las salidas (como un led que te avisa si la temperatura sube por encima de un cierto valor). Es &amp;lsquo;hardware libre&amp;rsquo; porque su diseño y toda la información sobre su construcción está disponible en Internet. El software para programarlo también es libre y gratuito y está en Internet. Arduino es el cerebro de muchas impresoras 3D, robots, etc&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Hashtags: #ArduinoD20 #LaRiojaArduinoD20&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.aprendiendoarduino.com/talleres/arduino-day-la-rioja-2020/&#34;&gt;https://www.aprendiendoarduino.com/talleres/arduino-day-la-rioja-2020/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ArduinoDay2020-Taller de Robots Multifunción.</title>
+      <link>http://lariojatech.org/post/27032020/</link>
+      <pubDate>Fri, 27 Mar 2020 17:00:00 +0300</pubDate>
+      
+      <guid>http://lariojatech.org/post/27032020/</guid>
+      <description>&lt;p&gt;Ponente: Construye tu robot y participa en las competiciones&lt;/p&gt;
+
+&lt;p&gt;Lugar: Colegio Obispo Blanco&lt;/p&gt;
+
+&lt;p&gt;Hora: Viernes 27 de marzo, 17:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: Con el objetivo de acercar la robótica y la programación a los niños, en esta edición del Arduino Day (2020), te proponemos un taller donde podrás fabricar y programar un robot multifunción que podrá luchar en una competición de sumo, seguir líneas y evitar obstáculos. El hardware y el software para fabricarlo y programarlo es libre y abierto. El taller es completamente gratuito y si quieres llevártelo a casa, por 15€ es tuyo!&lt;/p&gt;
+
+&lt;p&gt;Al día siguiente, el sábado 28 de marzo, en la Fundación Ibercaja, los robots competirán entre sí para ver quién es el mejor ¡Habrá premios!&lt;/p&gt;
+
+&lt;p&gt;Material cedido por Electrónica de Luis. Con la colaboración de AERTIC.&lt;/p&gt;
+
+&lt;p&gt;IMPARTE: Enrique Crespo, creador del blog www.aprendiendoarduino.com; Sergio Peciña y Alpha Pernía del UR-Maker (Universidad de La Rioja) y Mario Santamaría del Colegio Obispo Blanco Nájera de Logroño.
+FECHA: Viernes 27 de marzo de 2020
+HORA: 17h - 19h Construcción de Robots. 19h-20h Programación de Robots (trae tu portátil).
+LUGAR: Comedor del CEIP Obispo Blanco Nájera. Duquesa de la Victoria s/n. 26004, Logroño, La Rioja. Entrada por el parking del Colegio Obispo Blanco. Hay parking disponible para 15 coches.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Niños a partir de 6 años acompañados de un adulto y un máximo de 4 niños por adulto.&lt;/li&gt;
+&lt;li&gt;Número de Plazas: 30&lt;/li&gt;
+&lt;li&gt;Trae tu portátil si quieres programar y mejorar el robot. Los robots tendrán grabado un programa básico.&lt;/li&gt;
+&lt;li&gt;Se dará prioridad a padres/madres con hijos y profesores de infantil, primaria y secundaria&lt;/li&gt;
+&lt;li&gt;Las plazas se cubrirán por orden de inscripción. Si finalmente no puede asistir se ruega envíe un correo a alpha.pernia@unirioja.es lo antes posible. Gracias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*Se ruega puntualidad. Si a los 10 minutos de haber comenzado la actividad no ha llegado, se cederá su lugar y material a una persona de la lista de espera.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Poesía e Informática. Ecosistema digital alrededor de Otto, un robot poeta.</title>
