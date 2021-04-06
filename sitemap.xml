@@ -69,17 +69,27 @@
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/28032020/</loc>
+    <loc>http://lariojatech.org/post/14042021/</loc>
+    <lastmod>2021-04-14T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/post/31032021/</loc>
+    <lastmod>2021-03-31T10:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lariojatech.org/pasados/28032020/</loc>
     <lastmod>2020-03-28T09:30:00+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/27032020/</loc>
+    <loc>http://lariojatech.org/pasados/27032020/</loc>
     <lastmod>2020-03-27T17:00:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/09032020/</loc>
+    <loc>http://lariojatech.org/pasados/09032020/</loc>
     <lastmod>2020-03-09T10:00:00+01:00</lastmod>
   </url>
   
@@ -370,18 +380,18 @@
   </url>
   
   <url>
-    <loc>http://lariojatech.org/post/20032020/</loc>
+    <loc>http://lariojatech.org/pasados/20032020/</loc>
   </url>
   
   <url>
     <loc>http://lariojatech.org/pasados/</loc>
-    <lastmod>2020-02-22T09:30:00+06:30</lastmod>
+    <lastmod>2020-03-28T09:30:00+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lariojatech.org/post/</loc>
-    <lastmod>2020-03-28T09:30:00+10:00</lastmod>
+    <lastmod>2021-04-14T10:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

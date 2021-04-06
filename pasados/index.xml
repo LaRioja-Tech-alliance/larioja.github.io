@@ -6,10 +6,85 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 22 Feb 2020 09:30:00 +0630</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 09:30:00 +1000</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ArduinoDay 2020.</title>
+      <link>http://lariojatech.org/pasados/28032020/</link>
+      <pubDate>Sat, 28 Mar 2020 09:30:00 +1000</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/28032020/</guid>
+      <description>&lt;p&gt;Ponente: Construye tu robot y participa en las competiciones&lt;/p&gt;
+
+&lt;p&gt;Lugar: Centro Ibercaja La Rioja&lt;/p&gt;
+
+&lt;p&gt;Hora: Viernes 28 de marzo, 09:30&lt;/p&gt;
+
+&lt;p&gt;Qué es el Arduino Day
+Arduino Day es una celebración mundial del cumpleaños de Arduino. Es un evento de 24 horas, organizado directamente por la comunidad y por los fundadores de Arduino, que reúne a las personas para compartir sus experiencias y aprender más sobre esta plataforma de código abierto.&lt;/p&gt;
+
+&lt;p&gt;Arduino es una placa electrónica con un microcontrolador y entradas y salidas para interactuar con el mundo exterior. Con un Arduino es posible conectar sensores a las entradas (como una sonda de temperatura) y actuadores o indicadores a las salidas (como un led que te avisa si la temperatura sube por encima de un cierto valor). Es &amp;lsquo;hardware libre&amp;rsquo; porque su diseño y toda la información sobre su construcción está disponible en Internet. El software para programarlo también es libre y gratuito y está en Internet. Arduino es el cerebro de muchas impresoras 3D, robots, etc&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Hashtags: #ArduinoD20 #LaRiojaArduinoD20&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.aprendiendoarduino.com/talleres/arduino-day-la-rioja-2020/&#34;&gt;https://www.aprendiendoarduino.com/talleres/arduino-day-la-rioja-2020/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ArduinoDay2020-Taller de Robots Multifunción.</title>
+      <link>http://lariojatech.org/pasados/27032020/</link>
+      <pubDate>Fri, 27 Mar 2020 17:00:00 +0300</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/27032020/</guid>
+      <description>&lt;p&gt;Ponente: Construye tu robot y participa en las competiciones&lt;/p&gt;
+
+&lt;p&gt;Lugar: Colegio Obispo Blanco&lt;/p&gt;
+
+&lt;p&gt;Hora: Viernes 27 de marzo, 17:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: Con el objetivo de acercar la robótica y la programación a los niños, en esta edición del Arduino Day (2020), te proponemos un taller donde podrás fabricar y programar un robot multifunción que podrá luchar en una competición de sumo, seguir líneas y evitar obstáculos. El hardware y el software para fabricarlo y programarlo es libre y abierto. El taller es completamente gratuito y si quieres llevártelo a casa, por 15€ es tuyo!&lt;/p&gt;
+
+&lt;p&gt;Al día siguiente, el sábado 28 de marzo, en la Fundación Ibercaja, los robots competirán entre sí para ver quién es el mejor ¡Habrá premios!&lt;/p&gt;
+
+&lt;p&gt;Material cedido por Electrónica de Luis. Con la colaboración de AERTIC.&lt;/p&gt;
+
+&lt;p&gt;IMPARTE: Enrique Crespo, creador del blog www.aprendiendoarduino.com; Sergio Peciña y Alpha Pernía del UR-Maker (Universidad de La Rioja) y Mario Santamaría del Colegio Obispo Blanco Nájera de Logroño.
+FECHA: Viernes 27 de marzo de 2020
+HORA: 17h - 19h Construcción de Robots. 19h-20h Programación de Robots (trae tu portátil).
+LUGAR: Comedor del CEIP Obispo Blanco Nájera. Duquesa de la Victoria s/n. 26004, Logroño, La Rioja. Entrada por el parking del Colegio Obispo Blanco. Hay parking disponible para 15 coches.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Niños a partir de 6 años acompañados de un adulto y un máximo de 4 niños por adulto.&lt;/li&gt;
+&lt;li&gt;Número de Plazas: 30&lt;/li&gt;
+&lt;li&gt;Trae tu portátil si quieres programar y mejorar el robot. Los robots tendrán grabado un programa básico.&lt;/li&gt;
+&lt;li&gt;Se dará prioridad a padres/madres con hijos y profesores de infantil, primaria y secundaria&lt;/li&gt;
+&lt;li&gt;Las plazas se cubrirán por orden de inscripción. Si finalmente no puede asistir se ruega envíe un correo a alpha.pernia@unirioja.es lo antes posible. Gracias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*Se ruega puntualidad. Si a los 10 minutos de haber comenzado la actividad no ha llegado, se cederá su lugar y material a una persona de la lista de espera.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Poesía e Informática. Ecosistema digital alrededor de Otto, un robot poeta.</title>
+      <link>http://lariojatech.org/pasados/09032020/</link>
+      <pubDate>Mon, 09 Mar 2020 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/09032020/</guid>
+      <description>&lt;p&gt;Ponente: Juan Luis Mora (poeta, cantautor, ingeniero informático)&lt;/p&gt;
+
+&lt;p&gt;Lugar: Aula 035 (Edificio CCT)&lt;/p&gt;
+
+&lt;p&gt;Hora: lunes 09 de marzo, 10:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: Charla del poeta, cantautor e ingeniero informático Juanlu Mora en la que hablará sobre Poesía Digital, comentará algunas de las posibilidades y tendencias creativas existentes a la hora de mezclar poesía e informática, y nos presentará para ello los Artefactos Digitales que él mismo ha ido creando durante los últimos tres años, de entre los cuales, destaca, por su singularidad, el artefacto número V: Otto, un robot poeta en fase experimental y cuyo algoritmo creativo podremos ver en acción.&lt;/p&gt;
+
+&lt;p&gt;La charla examinará de forma general la plataforma digital de poesía generativa (CYRA) que el autor ha desarrollado para que Otto sea una realidad. Una plataforma de gestión, aprendizaje y composición que hace uso de algunas de las últimas tendencias relacionadas con la Inteligencia Artificial.&lt;/p&gt;
+
+&lt;p&gt;Biografía: Juan Luis Mora es poeta, cantautor e informático. Habitual del circuito madrileño de música y poesía en vivo, tiene publicados hasta la fecha tres poemarios y dos trabajos discográficos, además de haber sido incluido en diferentes antologías y revistas.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>WarGame [Zurracapoteconf]</title>
@@ -685,6 +760,30 @@ Escuela Técnica Superior de Ingeniería Industrial(Universidad de La Rioja) C\ 
       
       <guid>http://lariojatech.org/pasados/20181205/</guid>
       <description>&lt;p&gt;Usando como base un algoritmo de detección de maletas basado en redes neuronales haremos un recorrido por las distintas arquitecturas de red, empezando por una convolución hasta llegar al state of the art.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Loading 2020.</title>
+      <link>http://lariojatech.org/pasados/20032020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/20032020/</guid>
+      <description>&lt;p&gt;Jornadada sobre Ciberseguridad.&lt;/p&gt;
+
+&lt;p&gt;Lugar: Aula Magna de la Facultad de Ciencia y Tecnología
+Complejo Cientifico Tecnológico-CCT
+c/Madre de Dios 53&lt;/p&gt;
+
+&lt;p&gt;Hora: Viernes 20 de marzo, 09:30 a 13:00&lt;/p&gt;
+
+&lt;p&gt;Jornadas:&lt;/p&gt;
+
+&lt;p&gt;9:00 Inaguracions
+9:15 Memorias de un Perito informático Forense [Lorenzo Martínez]
+10:30 Vacaciones en la costa del SOC [Marta López]
+11:15 Descanso
+11:45 Cómo ser hacker [Nacho Alonso]
+13:00 Campo de batalla: la &amp;ldquo;ciber&amp;rdquo; [Carles Sóle]&lt;/p&gt;</description>
     </item>
     
   </channel>
