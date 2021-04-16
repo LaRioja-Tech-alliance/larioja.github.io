@@ -6,10 +6,46 @@
     <description>Recent content in Pasados on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sat, 28 Mar 2020 09:30:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/pasados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transformación Digital: la adopción del Machine Learning en las empresas.</title>
+      <link>http://lariojatech.org/pasados/14042021/</link>
+      <pubDate>Wed, 14 Apr 2021 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/14042021/</guid>
+      <description>&lt;p&gt;Ponente: Ignacio Fernández Estébanez (Business Development Manager, Arsys).&lt;/p&gt;
+
+&lt;p&gt;Lugar: Aula 204, Edificio CCT (Universidad de La Rioja) y online (&lt;a href=&#34;https://bit.ly/salaDMC&#34;&gt;https://bit.ly/salaDMC&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Hora: miércoles 14 de abril, 10:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: ¿Sabías que Netflix te muestra diferentes portadas para las series y películas en función de tus gustos? El Machine Learning es una disciplina del ámbito de la inteligencia artificial consistente en entrenar una máquina a partir de una colección de datos para que pueda aprender y realizar tareas reduciendo la intervención humana.&lt;/p&gt;
+
+&lt;p&gt;El aumento del volumen de datos y de la capacidad de cómputo han permitido extender la aplicación del Machine Learning hasta convertirse en algo que utilizamos diariamente de forma inconsciente: está presente en las recomendaciones de YouTube, Netflix o Spotify, en asistentes de voz o en el análisis de fraude al solicitar un crédito.&lt;/p&gt;
+
+&lt;p&gt;A pesar de su popularización a través de lenguajes de programación como Python o R, el uso del machine learning está todavía restringido a usuarios avanzados con al menos conocimientos de programación y matemáticas, entre otras áreas. Cada vez más aparecen algunas aplicaciones que permiten utilizar modelos preentrenados o entrenar modelos sin tener estos conocimientos, pero están aislados a ciertos casos de uso como el análisis de imágenes o el procesado de textos.&lt;/p&gt;
+
+&lt;p&gt;En esta charla comentaremos la inmersión de una empresa IT para adentrarse en el mundo del Machine Learning con un proyecto para generar un modelo de recomendaciones de ventas, empezando desde cero y los principales problemas encontrados. El siguiente reto: ¿es posible este caso con computación cuántica?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rompiendo la barrera del tiempo en microscopía.</title>
+      <link>http://lariojatech.org/pasados/31032021/</link>
+      <pubDate>Wed, 31 Mar 2021 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/pasados/31032021/</guid>
+      <description>&lt;p&gt;Ponente: Diego Megías Vázquez (jefe de la Unidad de Microscopía Confocal del Centro Nacional de Investigaciones Oncológicas – CNIO), Gadea Mata Martínez (Universidad de La Rioja).&lt;/p&gt;
+
+&lt;p&gt;Lugar: online (&lt;a href=&#34;https://bit.ly/salaDMC&#34;&gt;https://bit.ly/salaDMC&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Hora: miércoles 31 de marzo, 10:00&lt;/p&gt;
+
+&lt;p&gt;Resumen: La adquisición de imagen en microscopía óptica de fluorescencia requiere la exposición de la muestra a potentes fuentes de luz y a la recogida de su emisión. A mayor tiempo de exposición mayor relación señal / ruido. Dicho aumento en el tiempo de exposición genera toxicidad y muchas veces impide poder seguir con claridad eventos celulares rápidos. Las muestras biológicas que se ensayan diariamente en microscopía han de ser capturadas intentando que las imágenes sean lo más rápidas y fieles a la realidad posible pero sin dañarlas. En este seminario os contaremos como el Machine Learning nos puede ayudar a conseguir estos objetivos.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ArduinoDay 2020.</title>
