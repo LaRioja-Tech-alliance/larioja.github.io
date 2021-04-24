@@ -6,10 +6,31 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 21 Apr 2021 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 13:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inteligencia artificial en retina.</title>
+      <link>http://lariojatech.org/post/29042021/</link>
+      <pubDate>Thu, 29 Apr 2021 13:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/29042021/</guid>
+      <description>&lt;p&gt;Ponente: Dídac Royo (Director técnico y fundador de &lt;a href=&#34;https://www.optretina.com/&#34; target=&#34;_blank&#34;&gt;Optretina&lt;/a&gt;) y Miguel Ángel Zapata (Adjunto servicio oftalmología Hospital Vall d&amp;rsquo;Hebron. Barcelona, Director médico y fundador de &lt;a href=&#34;https://www.optretina.com/&#34; target=&#34;_blank&#34;&gt;Optretina&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Lugar: online (&lt;a href=&#34;https://bit.ly/salaDMC&#34;&gt;https://bit.ly/salaDMC&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Hora: miércoles 29 de abril, 13:00.&lt;/p&gt;
+
+&lt;p&gt;Resumen: &lt;a href=&#34;https://www.optretina.com/&#34; target=&#34;_blank&#34;&gt;Optretina&lt;/a&gt; es una empresa fundada hace 8 años que se dedica principalmente a la telemedicina en el campo de las enfermedades de la retina. Durante la charla comentaremos las principales líneas de trabajo, los primeros estudios y aplicaciones de la inteligencia artificial, así como las aplicaciones prácticas de redes neuronales que actualmente está utilizando Optretina. Durante el encuentro se comentarán también las futuras líneas de investigación en inteligencia artificial previstas y otras líneas de trabajo que se están desarrollando en el mundo de la retina con el uso de la inteligencia artificial.&lt;/p&gt;
+
+&lt;p&gt;Biografía:&lt;/p&gt;
+
+&lt;p&gt;Dídac Royo. Ingeniero Industrial en la rama de informática por la Universitat Politècnica de Catalunya. CTO y fundador de Optretina. CEO y fundador de S4Research.&lt;/p&gt;
+
+&lt;p&gt;Miguel A. Zapata. Médico por la Universitat Autònoma de Barcelona, especialista en Oftalmología, Doctor en Medicina y Cirugía con mención honorífica. Especialista en retina. Su actividad asistencial se desarrolla en el campo de la retina médica y quirúrgica, con especial énfasis en la degeneración macular y la retinopatía diabética. Sus principales intereses de investigación, tanto básica como clínica, son la degeneración macular, la retinopatía diabética, el desarrollo de nuevos fármacos para el tratamiento de la retina y la inteligencia artificial. En el campo de la investigación clínica, el Dr. Zapata ha sido investigador principal en 9 proyectos en los últimos 4 años y colaborador en más de 25 ensayos clínicos e investigación traslacional. En investigación básica, como principal en 3 proyectos y colaborador en 7 más. Ha presentado ponencias en numerosos congresos nacionales e internacionales y actualmente cuenta con 33 publicaciones indexadas.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A mobile application to fight antibiotic resistance.</title>
