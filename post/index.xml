@@ -6,10 +6,27 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 29 Apr 2021 13:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smart perception systems in industrial and agricultural domains.</title>
+      <link>http://lariojatech.org/post/05052021/</link>
+      <pubDate>Wed, 05 May 2021 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/05052021/</guid>
+      <description>&lt;p&gt;Ponente: &lt;strong&gt;Roberto Marani&lt;/strong&gt; (Investigador Predoctoral, Istituto di Sistemi e Tecnologie Industriali Intelligenti per il Manifatturiero Avanzato, Intelligent Sensing and Perception Group. Bari, Italia), &lt;a rel=&#34;noreferrer noopener&#34; href=&#34;https://sites.google.com/view/robertomarani/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://sites.google.com/view/robertomarani/&#34;&gt;https://sites.google.com/view/robertomarani/&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lugar: online (&lt;a href=&#34;https://bit.ly/salaDMC&#34;&gt;https://bit.ly/salaDMC&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Hora: miércoles 5 de mayo, 10:00.&lt;/p&gt;
+
+&lt;p&gt;Resumen: Advanced perception is a key enabling technology for shaping innovation in any physical environment. Low-cost technologies implementing multisensor systems, such as sensor networks and/or visual systems, cooperate with new methodologies assisted by computational intelligence to support people in making decisions in planning and controlling automatic devices for several application fields. The complete design of such systems is the main goal of the Intelligent Sensing and Perception (ISP) group, whose research is mainly targeted at the acquisition, fusion, processing, and interpretation of multisensor data. This talk will present several examples of advanced perception systems endowed with smart abilities for industrial diagnostics, human assistance, and precision agriculture. After a brief presentation of the activities of the ISP group, it will go through two case studies regarding i) innovative quality control procedures for defect detection in aeronautic structures and ii) image acquisition and processing for on-field yield analysis in precision agriculture. Possible opportunities for further cooperation in the very next future will be also presented.&lt;/p&gt;
+
+&lt;p&gt;Más detalles de la charla en la web del seminario, &lt;a href=&#34;https://seminariomirianandres.unirioja.es/2021/05/05/smart-perception-systems-in-industrial-and-agricultural-domains/&#34;&gt;a través de este enlace&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Inteligencia artificial en retina.</title>
@@ -21,7 +38,7 @@
 
 &lt;p&gt;Lugar: online (&lt;a href=&#34;https://bit.ly/salaDMC&#34;&gt;https://bit.ly/salaDMC&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;Hora: miércoles 29 de abril, 13:00.&lt;/p&gt;
+&lt;p&gt;Hora: jueves 29 de abril, 13:00.&lt;/p&gt;
 
 &lt;p&gt;Resumen: &lt;a href=&#34;https://www.optretina.com/&#34; target=&#34;_blank&#34;&gt;Optretina&lt;/a&gt; es una empresa fundada hace 8 años que se dedica principalmente a la telemedicina en el campo de las enfermedades de la retina. Durante la charla comentaremos las principales líneas de trabajo, los primeros estudios y aplicaciones de la inteligencia artificial, así como las aplicaciones prácticas de redes neuronales que actualmente está utilizando Optretina. Durante el encuentro se comentarán también las futuras líneas de investigación en inteligencia artificial previstas y otras líneas de trabajo que se están desarrollando en el mundo de la retina con el uso de la inteligencia artificial.&lt;/p&gt;
 
