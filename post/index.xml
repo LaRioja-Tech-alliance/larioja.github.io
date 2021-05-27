@@ -6,10 +6,25 @@
     <description>Recent content in Posts on La Rioja Tech Alliance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 05 May 2021 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://lariojatech.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La gran sopa de letras. Procesamiento de lenguaje natural sin estándar ortográfico.</title>
+      <link>http://lariojatech.org/post/02062021/</link>
+      <pubDate>Wed, 02 Jun 2021 10:00:00 +0100</pubDate>
+      
+      <guid>http://lariojatech.org/post/02062021/</guid>
+      <description>&lt;p&gt;Ponente: &lt;strong&gt;Javier Martín Arista&lt;/strong&gt; (Catedrático del Área de Filología Inglesa, Universidad de La Rioja), &lt;a rel=&#34;noreferrer noopener&#34; href=&#34;https://investigacion.unirioja.es/investigadores/112/detalle&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;https://investigacion.unirioja.es/investigadores/112/detalle&#34;&gt;https://investigacion.unirioja.es/investigadores/112/detalle&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lugar: Aula 209 (Edificio CCT, Universidad de La Rioja &amp;ndash; aforo limitado &amp;ndash;) y online (&lt;a href=&#34;https://bit.ly/salaDMC&#34;&gt;https://bit.ly/salaDMC&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Hora: miércoles 2 de junio, 10:00.&lt;/p&gt;
+
+&lt;p&gt;Información sobre la charla a través de la web del seminario, &lt;a href=&#34;https://seminariomirianandres.unirioja.es/2021/06/02/la-gran-sopa-de-letras-procesamiento-de-lenguaje-natural-sin-estandar-ortografico/&#34;&gt;a través de este enlace&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Smart perception systems in industrial and agricultural domains.</title>
